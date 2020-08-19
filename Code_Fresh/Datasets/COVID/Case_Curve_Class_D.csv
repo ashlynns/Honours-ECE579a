@@ -1,0 +1,833 @@
+County,State,Combined_Key,Case_Curve_Class
+Baldwin,Alabama,"Baldwin, Alabama, US",2
+Colbert,Alabama,"Colbert, Alabama, US",3
+DeKalb,Alabama,"DeKalb, Alabama, US",2
+Etowah,Alabama,"Etowah, Alabama, US",2
+Houston,Alabama,"Houston, Alabama, US",3
+Jefferson,Alabama,"Jefferson, Alabama, US",3
+Madison,Alabama,"Madison, Alabama, US",2
+Mobile,Alabama,"Mobile, Alabama, US",3
+Montgomery,Alabama,"Montgomery, Alabama, US",3
+Morgan,Alabama,"Morgan, Alabama, US",3
+Russell,Alabama,"Russell, Alabama, US",3
+Shelby,Alabama,"Shelby, Alabama, US",2
+Sumter,Alabama,"Sumter, Alabama, US",1
+Tuscaloosa,Alabama,"Tuscaloosa, Alabama, US",3
+Apache,Arizona,"Apache, Arizona, US",3
+Cochise,Arizona,"Cochise, Arizona, US",2
+Coconino,Arizona,"Coconino, Arizona, US",3
+Gila,Arizona,"Gila, Arizona, US",2
+La Paz,Arizona,"La Paz, Arizona, US",3
+Maricopa,Arizona,"Maricopa, Arizona, US",2
+Mohave,Arizona,"Mohave, Arizona, US",3
+Navajo,Arizona,"Navajo, Arizona, US",3
+Pima,Arizona,"Pima, Arizona, US",3
+Pinal,Arizona,"Pinal, Arizona, US",3
+Santa Cruz,Arizona,"Santa Cruz, Arizona, US",3
+Yavapai,Arizona,"Yavapai, Arizona, US",3
+Yuma,Arizona,"Yuma, Arizona, US",3
+Clark,Arkansas,"Clark, Arkansas, US",2
+Crittenden,Arkansas,"Crittenden, Arkansas, US",3
+Newton,Arkansas,"Newton, Arkansas, US",2
+Polk,Arkansas,"Polk, Arkansas, US",3
+Pulaski,Arkansas,"Pulaski, Arkansas, US",3
+Union,Arkansas,"Union, Arkansas, US",1
+Washington,Arkansas,"Washington, Arkansas, US",3
+Alameda,California,"Alameda, California, US",3
+Amador,California,"Amador, California, US",1
+Butte,California,"Butte, California, US",3
+Calaveras,California,"Calaveras, California, US",2
+Colusa,California,"Colusa, California, US",2
+Contra Costa,California,"Contra Costa, California, US",2
+El Dorado,California,"El Dorado, California, US",3
+Fresno,California,"Fresno, California, US",3
+Glenn,California,"Glenn, California, US",2
+Humboldt,California,"Humboldt, California, US",1
+Imperial,California,"Imperial, California, US",3
+Inyo,California,"Inyo, California, US",2
+Kern,California,"Kern, California, US",3
+Kings,California,"Kings, California, US",3
+Lake,California,"Lake, California, US",3
+Los Angeles,California,"Los Angeles, California, US",3
+Madera,California,"Madera, California, US",3
+Marin,California,"Marin, California, US",3
+Mariposa,California,"Mariposa, California, US",2
+Mendocino,California,"Mendocino, California, US",3
+Merced,California,"Merced, California, US",3
+Mono,California,"Mono, California, US",1
+Monterey,California,"Monterey, California, US",3
+Napa,California,"Napa, California, US",2
+Nevada,California,"Nevada, California, US",2
+Orange,California,"Orange, California, US",3
+Placer,California,"Placer, California, US",2
+Riverside,California,"Riverside, California, US",3
+Sacramento,California,"Sacramento, California, US",2
+San Benito,California,"San Benito, California, US",2
+San Bernardino,California,"San Bernardino, California, US",3
+San Diego,California,"San Diego, California, US",3
+San Francisco,California,"San Francisco, California, US",3
+San Joaquin,California,"San Joaquin, California, US",3
+San Luis Obispo,California,"San Luis Obispo, California, US",2
+San Mateo,California,"San Mateo, California, US",3
+Santa Barbara,California,"Santa Barbara, California, US",3
+Santa Clara,California,"Santa Clara, California, US",2
+Santa Cruz,California,"Santa Cruz, California, US",3
+Shasta,California,"Shasta, California, US",2
+Siskiyou,California,"Siskiyou, California, US",3
+Solano,California,"Solano, California, US",2
+Sonoma,California,"Sonoma, California, US",3
+Stanislaus,California,"Stanislaus, California, US",2
+Sutter,California,"Sutter, California, US",2
+Tehama,California,"Tehama, California, US",2
+Tulare,California,"Tulare, California, US",3
+Tuolumne,California,"Tuolumne, California, US",2
+Ventura,California,"Ventura, California, US",3
+Yolo,California,"Yolo, California, US",2
+Adams,Colorado,"Adams, Colorado, US",1
+Arapahoe,Colorado,"Arapahoe, Colorado, US",1
+Archuleta,Colorado,"Archuleta, Colorado, US",1
+Boulder,Colorado,"Boulder, Colorado, US",3
+Clear Creek,Colorado,"Clear Creek, Colorado, US",1
+Denver,Colorado,"Denver, Colorado, US",1
+Douglas,Colorado,"Douglas, Colorado, US",3
+El Paso,Colorado,"El Paso, Colorado, US",3
+Garfield,Colorado,"Garfield, Colorado, US",3
+Gunnison,Colorado,"Gunnison, Colorado, US",1
+Jefferson,Colorado,"Jefferson, Colorado, US",1
+La Plata,Colorado,"La Plata, Colorado, US",3
+Larimer,Colorado,"Larimer, Colorado, US",1
+Mesa,Colorado,"Mesa, Colorado, US",2
+Montezuma,Colorado,"Montezuma, Colorado, US",1
+Prowers,Colorado,"Prowers, Colorado, US",1
+Rio Blanco,Colorado,"Rio Blanco, Colorado, US",2
+Routt,Colorado,"Routt, Colorado, US",1
+Weld,Colorado,"Weld, Colorado, US",1
+Fairfield,Connecticut,"Fairfield, Connecticut, US",1
+Hartford,Connecticut,"Hartford, Connecticut, US",1
+Litchfield,Connecticut,"Litchfield, Connecticut, US",1
+New Haven,Connecticut,"New Haven, Connecticut, US",1
+New London,Connecticut,"New London, Connecticut, US",1
+Windham,Connecticut,"Windham, Connecticut, US",3
+Kent,Delaware,"Kent, Delaware, US",1
+New Castle,Delaware,"New Castle, Delaware, US",3
+Sussex,Delaware,"Sussex, Delaware, US",1
+Alachua,Florida,"Alachua, Florida, US",2
+Baker,Florida,"Baker, Florida, US",2
+Bay,Florida,"Bay, Florida, US",3
+Brevard,Florida,"Brevard, Florida, US",2
+Broward,Florida,"Broward, Florida, US",2
+Citrus,Florida,"Citrus, Florida, US",2
+Collier,Florida,"Collier, Florida, US",3
+Columbia,Florida,"Columbia, Florida, US",2
+Duval,Florida,"Duval, Florida, US",3
+Escambia,Florida,"Escambia, Florida, US",2
+Flagler,Florida,"Flagler, Florida, US",2
+Hamilton,Florida,"Hamilton, Florida, US",1
+Highlands,Florida,"Highlands, Florida, US",2
+Hillsborough,Florida,"Hillsborough, Florida, US",2
+Holmes,Florida,"Holmes, Florida, US",2
+Indian River,Florida,"Indian River, Florida, US",2
+Lake,Florida,"Lake, Florida, US",2
+Lee,Florida,"Lee, Florida, US",3
+Leon,Florida,"Leon, Florida, US",3
+Liberty,Florida,"Liberty, Florida, US",1
+Manatee,Florida,"Manatee, Florida, US",2
+Marion,Florida,"Marion, Florida, US",2
+Martin,Florida,"Martin, Florida, US",3
+Miami-Dade,Florida,"Miami-Dade, Florida, US",2
+Nassau,Florida,"Nassau, Florida, US",2
+Okaloosa,Florida,"Okaloosa, Florida, US",2
+Orange,Florida,"Orange, Florida, US",2
+Osceola,Florida,"Osceola, Florida, US",2
+Palm Beach,Florida,"Palm Beach, Florida, US",3
+Pasco,Florida,"Pasco, Florida, US",2
+Pinellas,Florida,"Pinellas, Florida, US",2
+Polk,Florida,"Polk, Florida, US",3
+Putnam,Florida,"Putnam, Florida, US",2
+St. Lucie,Florida,"St. Lucie, Florida, US",3
+Santa Rosa,Florida,"Santa Rosa, Florida, US",2
+Sarasota,Florida,"Sarasota, Florida, US",3
+Seminole,Florida,"Seminole, Florida, US",2
+Volusia,Florida,"Volusia, Florida, US",2
+Wakulla,Florida,"Wakulla, Florida, US",2
+Bibb,Georgia,"Bibb, Georgia, US",2
+Chatham,Georgia,"Chatham, Georgia, US",3
+Chattooga,Georgia,"Chattooga, Georgia, US",3
+Clarke,Georgia,"Clarke, Georgia, US",3
+Cobb,Georgia,"Cobb, Georgia, US",2
+Columbia,Georgia,"Columbia, Georgia, US",2
+Dawson,Georgia,"Dawson, Georgia, US",1
+DeKalb,Georgia,"DeKalb, Georgia, US",3
+Dougherty,Georgia,"Dougherty, Georgia, US",1
+Douglas,Georgia,"Douglas, Georgia, US",2
+Floyd,Georgia,"Floyd, Georgia, US",3
+Fulton,Georgia,"Fulton, Georgia, US",3
+Glynn,Georgia,"Glynn, Georgia, US",2
+Gwinnett,Georgia,"Gwinnett, Georgia, US",3
+Henry,Georgia,"Henry, Georgia, US",2
+Houston,Georgia,"Houston, Georgia, US",2
+Lowndes,Georgia,"Lowndes, Georgia, US",3
+Murray,Georgia,"Murray, Georgia, US",3
+Muscogee,Georgia,"Muscogee, Georgia, US",3
+Pike,Georgia,"Pike, Georgia, US",2
+Richmond,Georgia,"Richmond, Georgia, US",2
+Rockdale,Georgia,"Rockdale, Georgia, US",2
+Sumter,Georgia,"Sumter, Georgia, US",1
+Walker,Georgia,"Walker, Georgia, US",3
+Hawaii,Hawaii,"Hawaii, Hawaii, US",1
+Honolulu,Hawaii,"Honolulu, Hawaii, US",2
+Kauai,Hawaii,"Kauai, Hawaii, US",2
+Maui,Hawaii,"Maui, Hawaii, US",1
+Ada,Idaho,"Ada, Idaho, US",2
+Bannock,Idaho,"Bannock, Idaho, US",3
+Benewah,Idaho,"Benewah, Idaho, US",1
+Bonner,Idaho,"Bonner, Idaho, US",2
+Canyon,Idaho,"Canyon, Idaho, US",2
+Caribou,Idaho,"Caribou, Idaho, US",2
+Franklin,Idaho,"Franklin, Idaho, US",2
+Lemhi,Idaho,"Lemhi, Idaho, US",2
+Adams,Illinois,"Adams, Illinois, US",2
+Champaign,Illinois,"Champaign, Illinois, US",1
+Clark,Illinois,"Clark, Illinois, US",3
+Cook,Illinois,"Cook, Illinois, US",1
+DuPage,Illinois,"DuPage, Illinois, US",1
+Effingham,Illinois,"Effingham, Illinois, US",2
+Hamilton,Illinois,"Hamilton, Illinois, US",2
+Jersey,Illinois,"Jersey, Illinois, US",3
+Jo Daviess,Illinois,"Jo Daviess, Illinois, US",3
+Kane,Illinois,"Kane, Illinois, US",1
+Lake,Illinois,"Lake, Illinois, US",1
+McHenry,Illinois,"McHenry, Illinois, US",1
+McLean,Illinois,"McLean, Illinois, US",1
+Macon,Illinois,"Macon, Illinois, US",1
+Macoupin,Illinois,"Macoupin, Illinois, US",1
+Madison,Illinois,"Madison, Illinois, US",3
+Peoria,Illinois,"Peoria, Illinois, US",3
+Randolph,Illinois,"Randolph, Illinois, US",1
+Rock Island,Illinois,"Rock Island, Illinois, US",3
+Sangamon,Illinois,"Sangamon, Illinois, US",1
+Wabash,Illinois,"Wabash, Illinois, US",3
+Will,Illinois,"Will, Illinois, US",1
+Winnebago,Illinois,"Winnebago, Illinois, US",1
+Allen,Indiana,"Allen, Indiana, US",3
+Bartholomew,Indiana,"Bartholomew, Indiana, US",1
+Clark,Indiana,"Clark, Indiana, US",1
+Daviess,Indiana,"Daviess, Indiana, US",3
+Delaware,Indiana,"Delaware, Indiana, US",1
+Elkhart,Indiana,"Elkhart, Indiana, US",3
+Floyd,Indiana,"Floyd, Indiana, US",1
+Gibson,Indiana,"Gibson, Indiana, US",3
+Greene,Indiana,"Greene, Indiana, US",1
+Hamilton,Indiana,"Hamilton, Indiana, US",1
+Hendricks,Indiana,"Hendricks, Indiana, US",1
+Howard,Indiana,"Howard, Indiana, US",1
+Knox,Indiana,"Knox, Indiana, US",2
+Lake,Indiana,"Lake, Indiana, US",1
+LaPorte,Indiana,"LaPorte, Indiana, US",1
+Madison,Indiana,"Madison, Indiana, US",1
+Marion,Indiana,"Marion, Indiana, US",1
+Monroe,Indiana,"Monroe, Indiana, US",2
+Morgan,Indiana,"Morgan, Indiana, US",1
+Pike,Indiana,"Pike, Indiana, US",3
+Porter,Indiana,"Porter, Indiana, US",1
+Posey,Indiana,"Posey, Indiana, US",2
+St. Joseph,Indiana,"St. Joseph, Indiana, US",3
+Shelby,Indiana,"Shelby, Indiana, US",1
+Tippecanoe,Indiana,"Tippecanoe, Indiana, US",3
+Vanderburgh,Indiana,"Vanderburgh, Indiana, US",3
+Vigo,Indiana,"Vigo, Indiana, US",1
+Wabash,Indiana,"Wabash, Indiana, US",3
+Warrick,Indiana,"Warrick, Indiana, US",1
+Whitley,Indiana,"Whitley, Indiana, US",3
+Black Hawk,Iowa,"Black Hawk, Iowa, US",3
+Bremer,Iowa,"Bremer, Iowa, US",1
+Clinton,Iowa,"Clinton, Iowa, US",2
+Harrison,Iowa,"Harrison, Iowa, US",2
+Johnson,Iowa,"Johnson, Iowa, US",2
+Linn,Iowa,"Linn, Iowa, US",1
+Montgomery,Iowa,"Montgomery, Iowa, US",1
+Muscatine,Iowa,"Muscatine, Iowa, US",1
+Palo Alto,Iowa,"Palo Alto, Iowa, US",3
+Polk,Iowa,"Polk, Iowa, US",3
+Scott,Iowa,"Scott, Iowa, US",2
+Van Buren,Iowa,"Van Buren, Iowa, US",2
+Ford,Kansas,"Ford, Kansas, US",1
+Johnson,Kansas,"Johnson, Kansas, US",3
+Leavenworth,Kansas,"Leavenworth, Kansas, US",1
+Neosho,Kansas,"Neosho, Kansas, US",2
+Sedgwick,Kansas,"Sedgwick, Kansas, US",2
+Shawnee,Kansas,"Shawnee, Kansas, US",3
+Sumner,Kansas,"Sumner, Kansas, US",3
+Trego,Kansas,"Trego, Kansas, US",1
+Wyandotte,Kansas,"Wyandotte, Kansas, US",2
+Bell,Kentucky,"Bell, Kentucky, US",2
+Boone,Kentucky,"Boone, Kentucky, US",1
+Boyd,Kentucky,"Boyd, Kentucky, US",2
+Bullitt,Kentucky,"Bullitt, Kentucky, US",1
+Campbell,Kentucky,"Campbell, Kentucky, US",3
+Carter,Kentucky,"Carter, Kentucky, US",3
+Christian,Kentucky,"Christian, Kentucky, US",2
+Daviess,Kentucky,"Daviess, Kentucky, US",3
+Edmonson,Kentucky,"Edmonson, Kentucky, US",3
+Fayette,Kentucky,"Fayette, Kentucky, US",3
+Greenup,Kentucky,"Greenup, Kentucky, US",2
+Hardin,Kentucky,"Hardin, Kentucky, US",3
+Henderson,Kentucky,"Henderson, Kentucky, US",3
+Jefferson,Kentucky,"Jefferson, Kentucky, US",3
+Jessamine,Kentucky,"Jessamine, Kentucky, US",2
+Livingston,Kentucky,"Livingston, Kentucky, US",1
+McCracken,Kentucky,"McCracken, Kentucky, US",3
+Morgan,Kentucky,"Morgan, Kentucky, US",1
+Oldham,Kentucky,"Oldham, Kentucky, US",1
+Perry,Kentucky,"Perry, Kentucky, US",2
+Pike,Kentucky,"Pike, Kentucky, US",2
+Pulaski,Kentucky,"Pulaski, Kentucky, US",3
+Simpson,Kentucky,"Simpson, Kentucky, US",3
+Trigg,Kentucky,"Trigg, Kentucky, US",3
+Warren,Kentucky,"Warren, Kentucky, US",3
+Washington,Kentucky,"Washington, Kentucky, US",3
+Ascension,Louisiana,"Ascension, Louisiana, US",2
+Bossier,Louisiana,"Bossier, Louisiana, US",2
+Caddo,Louisiana,"Caddo, Louisiana, US",1
+Calcasieu,Louisiana,"Calcasieu, Louisiana, US",2
+East Baton Rouge,Louisiana,"East Baton Rouge, Louisiana, US",3
+Iberville,Louisiana,"Iberville, Louisiana, US",1
+Jefferson,Louisiana,"Jefferson, Louisiana, US",1
+Lafayette,Louisiana,"Lafayette, Louisiana, US",2
+Lafourche,Louisiana,"Lafourche, Louisiana, US",2
+Livingston,Louisiana,"Livingston, Louisiana, US",3
+Orleans,Louisiana,"Orleans, Louisiana, US",1
+Ouachita,Louisiana,"Ouachita, Louisiana, US",3
+Pointe Coupee,Louisiana,"Pointe Coupee, Louisiana, US",1
+St. Bernard,Louisiana,"St. Bernard, Louisiana, US",1
+St. James,Louisiana,"St. James, Louisiana, US",2
+St. John the Baptist,Louisiana,"St. John the Baptist, Louisiana, US",1
+St. Tammany,Louisiana,"St. Tammany, Louisiana, US",1
+West Baton Rouge,Louisiana,"West Baton Rouge, Louisiana, US",2
+Androscoggin,Maine,"Androscoggin, Maine, US",1
+Aroostook,Maine,"Aroostook, Maine, US",3
+Cumberland,Maine,"Cumberland, Maine, US",3
+Hancock,Maine,"Hancock, Maine, US",2
+Kennebec,Maine,"Kennebec, Maine, US",1
+Oxford,Maine,"Oxford, Maine, US",1
+Penobscot,Maine,"Penobscot, Maine, US",1
+Washington,Maine,"Washington, Maine, US",1
+York,Maine,"York, Maine, US",3
+Anne Arundel,Maryland,"Anne Arundel, Maryland, US",1
+Baltimore,Maryland,"Baltimore, Maryland, US",1
+Calvert,Maryland,"Calvert, Maryland, US",1
+Carroll,Maryland,"Carroll, Maryland, US",1
+Cecil,Maryland,"Cecil, Maryland, US",1
+Charles,Maryland,"Charles, Maryland, US",1
+Dorchester,Maryland,"Dorchester, Maryland, US",1
+Frederick,Maryland,"Frederick, Maryland, US",1
+Garrett,Maryland,"Garrett, Maryland, US",1
+Harford,Maryland,"Harford, Maryland, US",1
+Howard,Maryland,"Howard, Maryland, US",3
+Kent,Maryland,"Kent, Maryland, US",1
+Montgomery,Maryland,"Montgomery, Maryland, US",1
+Prince George's,Maryland,"Prince George's, Maryland, US",1
+Washington,Maryland,"Washington, Maryland, US",3
+Barnstable,Massachusetts,"Barnstable, Massachusetts, US",1
+Berkshire,Massachusetts,"Berkshire, Massachusetts, US",1
+Bristol,Massachusetts,"Bristol, Massachusetts, US",1
+Dukes,Massachusetts,"Dukes, Massachusetts, US",1
+Essex,Massachusetts,"Essex, Massachusetts, US",1
+Franklin,Massachusetts,"Franklin, Massachusetts, US",1
+Hampden,Massachusetts,"Hampden, Massachusetts, US",1
+Hampshire,Massachusetts,"Hampshire, Massachusetts, US",1
+Middlesex,Massachusetts,"Middlesex, Massachusetts, US",1
+Norfolk,Massachusetts,"Norfolk, Massachusetts, US",1
+Plymouth,Massachusetts,"Plymouth, Massachusetts, US",1
+Suffolk,Massachusetts,"Suffolk, Massachusetts, US",1
+Worcester,Massachusetts,"Worcester, Massachusetts, US",1
+Allegan,Michigan,"Allegan, Michigan, US",1
+Bay,Michigan,"Bay, Michigan, US",1
+Berrien,Michigan,"Berrien, Michigan, US",1
+Clinton,Michigan,"Clinton, Michigan, US",2
+Genesee,Michigan,"Genesee, Michigan, US",1
+Ingham,Michigan,"Ingham, Michigan, US",3
+Kalamazoo,Michigan,"Kalamazoo, Michigan, US",1
+Kent,Michigan,"Kent, Michigan, US",1
+Lenawee,Michigan,"Lenawee, Michigan, US",1
+Macomb,Michigan,"Macomb, Michigan, US",1
+Manistee,Michigan,"Manistee, Michigan, US",2
+Missaukee,Michigan,"Missaukee, Michigan, US",3
+Monroe,Michigan,"Monroe, Michigan, US",1
+Oakland,Michigan,"Oakland, Michigan, US",1
+St. Clair,Michigan,"St. Clair, Michigan, US",1
+Schoolcraft,Michigan,"Schoolcraft, Michigan, US",1
+Tuscola,Michigan,"Tuscola, Michigan, US",1
+Washtenaw,Michigan,"Washtenaw, Michigan, US",1
+Wayne,Michigan,"Wayne, Michigan, US",1
+Wexford,Michigan,"Wexford, Michigan, US",2
+Anoka,Minnesota,"Anoka, Minnesota, US",1
+Becker,Minnesota,"Becker, Minnesota, US",1
+Carlton,Minnesota,"Carlton, Minnesota, US",1
+Cook,Minnesota,"Cook, Minnesota, US",1
+Crow Wing,Minnesota,"Crow Wing, Minnesota, US",1
+Dakota,Minnesota,"Dakota, Minnesota, US",3
+Goodhue,Minnesota,"Goodhue, Minnesota, US",3
+Hennepin,Minnesota,"Hennepin, Minnesota, US",1
+Lake,Minnesota,"Lake, Minnesota, US",3
+Lyon,Minnesota,"Lyon, Minnesota, US",3
+Olmsted,Minnesota,"Olmsted, Minnesota, US",3
+Ramsey,Minnesota,"Ramsey, Minnesota, US",1
+Scott,Minnesota,"Scott, Minnesota, US",1
+Stearns,Minnesota,"Stearns, Minnesota, US",1
+Washington,Minnesota,"Washington, Minnesota, US",3
+Wright,Minnesota,"Wright, Minnesota, US",1
+Bolivar,Mississippi,"Bolivar, Mississippi, US",2
+DeSoto,Mississippi,"DeSoto, Mississippi, US",3
+Forrest,Mississippi,"Forrest, Mississippi, US",3
+Hancock,Mississippi,"Hancock, Mississippi, US",1
+Harrison,Mississippi,"Harrison, Mississippi, US",2
+Hinds,Mississippi,"Hinds, Mississippi, US",3
+Jackson,Mississippi,"Jackson, Mississippi, US",2
+Lauderdale,Mississippi,"Lauderdale, Mississippi, US",1
+Lee,Mississippi,"Lee, Mississippi, US",3
+Yalobusha,Mississippi,"Yalobusha, Mississippi, US",3
+Andrew,Missouri,"Andrew, Missouri, US",3
+Boone,Missouri,"Boone, Missouri, US",2
+Buchanan,Missouri,"Buchanan, Missouri, US",1
+Callaway,Missouri,"Callaway, Missouri, US",3
+Cass,Missouri,"Cass, Missouri, US",2
+Cedar,Missouri,"Cedar, Missouri, US",1
+Clay,Missouri,"Clay, Missouri, US",3
+Clinton,Missouri,"Clinton, Missouri, US",3
+Greene,Missouri,"Greene, Missouri, US",2
+Iron,Missouri,"Iron, Missouri, US",1
+Jackson,Missouri,"Jackson, Missouri, US",3
+Jefferson,Missouri,"Jefferson, Missouri, US",1
+Lincoln,Missouri,"Lincoln, Missouri, US",1
+Monroe,Missouri,"Monroe, Missouri, US",1
+Perry,Missouri,"Perry, Missouri, US",2
+St. Louis City,Missouri,"St. Louis City, Missouri, US",1
+Cascade,Montana,"Cascade, Montana, US",2
+Fergus,Montana,"Fergus, Montana, US",2
+Flathead,Montana,"Flathead, Montana, US",2
+Gallatin,Montana,"Gallatin, Montana, US",2
+Lewis and Clark,Montana,"Lewis and Clark, Montana, US",2
+Lincoln,Montana,"Lincoln, Montana, US",1
+Missoula,Montana,"Missoula, Montana, US",2
+Ravalli,Montana,"Ravalli, Montana, US",3
+Richland,Montana,"Richland, Montana, US",2
+Rosebud,Montana,"Rosebud, Montana, US",1
+Silver Bow,Montana,"Silver Bow, Montana, US",2
+Yellowstone,Montana,"Yellowstone, Montana, US",2
+Cass,Nebraska,"Cass, Nebraska, US",1
+Douglas,Nebraska,"Douglas, Nebraska, US",3
+Knox,Nebraska,"Knox, Nebraska, US",3
+Lancaster,Nebraska,"Lancaster, Nebraska, US",1
+Sarpy,Nebraska,"Sarpy, Nebraska, US",3
+Churchill,Nevada,"Churchill, Nevada, US",1
+Clark,Nevada,"Clark, Nevada, US",2
+Douglas,Nevada,"Douglas, Nevada, US",3
+Elko,Nevada,"Elko, Nevada, US",3
+Lyon,Nevada,"Lyon, Nevada, US",3
+Nye,Nevada,"Nye, Nevada, US",2
+Washoe,Nevada,"Washoe, Nevada, US",2
+White Pine,Nevada,"White Pine, Nevada, US",1
+Carson City,Nevada,"Carson City, Nevada, US",3
+Belknap,New Hampshire,"Belknap, New Hampshire, US",1
+Cheshire,New Hampshire,"Cheshire, New Hampshire, US",1
+Coos,New Hampshire,"Coos, New Hampshire, US",3
+Grafton,New Hampshire,"Grafton, New Hampshire, US",1
+Hillsborough,New Hampshire,"Hillsborough, New Hampshire, US",1
+Merrimack,New Hampshire,"Merrimack, New Hampshire, US",1
+Rockingham,New Hampshire,"Rockingham, New Hampshire, US",1
+Atlantic,New Jersey,"Atlantic, New Jersey, US",1
+Bergen,New Jersey,"Bergen, New Jersey, US",1
+Camden,New Jersey,"Camden, New Jersey, US",1
+Cumberland,New Jersey,"Cumberland, New Jersey, US",1
+Essex,New Jersey,"Essex, New Jersey, US",1
+Gloucester,New Jersey,"Gloucester, New Jersey, US",1
+Hudson,New Jersey,"Hudson, New Jersey, US",1
+Hunterdon,New Jersey,"Hunterdon, New Jersey, US",1
+Mercer,New Jersey,"Mercer, New Jersey, US",1
+Middlesex,New Jersey,"Middlesex, New Jersey, US",1
+Monmouth,New Jersey,"Monmouth, New Jersey, US",1
+Morris,New Jersey,"Morris, New Jersey, US",1
+Ocean,New Jersey,"Ocean, New Jersey, US",1
+Passaic,New Jersey,"Passaic, New Jersey, US",1
+Union,New Jersey,"Union, New Jersey, US",1
+Warren,New Jersey,"Warren, New Jersey, US",1
+Bernalillo,New Mexico,"Bernalillo, New Mexico, US",3
+Dona Ana,New Mexico,"Dona Ana, New Mexico, US",3
+Eddy,New Mexico,"Eddy, New Mexico, US",3
+Lea,New Mexico,"Lea, New Mexico, US",3
+Luna,New Mexico,"Luna, New Mexico, US",2
+Rio Arriba,New Mexico,"Rio Arriba, New Mexico, US",3
+Sandoval,New Mexico,"Sandoval, New Mexico, US",1
+San Juan,New Mexico,"San Juan, New Mexico, US",1
+Santa Fe,New Mexico,"Santa Fe, New Mexico, US",2
+Taos,New Mexico,"Taos, New Mexico, US",3
+Valencia,New Mexico,"Valencia, New Mexico, US",2
+Albany,New York,"Albany, New York, US",1
+Chautauqua,New York,"Chautauqua, New York, US",1
+Dutchess,New York,"Dutchess, New York, US",1
+Erie,New York,"Erie, New York, US",1
+Essex,New York,"Essex, New York, US",1
+Franklin,New York,"Franklin, New York, US",3
+Hamilton,New York,"Hamilton, New York, US",2
+Herkimer,New York,"Herkimer, New York, US",3
+Jefferson,New York,"Jefferson, New York, US",1
+Monroe,New York,"Monroe, New York, US",1
+Nassau,New York,"Nassau, New York, US",1
+Niagara,New York,"Niagara, New York, US",1
+Oneida,New York,"Oneida, New York, US",3
+Onondaga,New York,"Onondaga, New York, US",1
+Orange,New York,"Orange, New York, US",1
+Oswego,New York,"Oswego, New York, US",2
+Putnam,New York,"Putnam, New York, US",1
+Rockland,New York,"Rockland, New York, US",1
+Saratoga,New York,"Saratoga, New York, US",1
+Steuben,New York,"Steuben, New York, US",1
+Suffolk,New York,"Suffolk, New York, US",1
+Tompkins,New York,"Tompkins, New York, US",1
+Wayne,New York,"Wayne, New York, US",2
+Westchester,New York,"Westchester, New York, US",1
+Avery,North Carolina,"Avery, North Carolina, US",3
+Beaufort,North Carolina,"Beaufort, North Carolina, US",2
+Buncombe,North Carolina,"Buncombe, North Carolina, US",3
+Caldwell,North Carolina,"Caldwell, North Carolina, US",3
+Carteret,North Carolina,"Carteret, North Carolina, US",2
+Caswell,North Carolina,"Caswell, North Carolina, US",3
+Catawba,North Carolina,"Catawba, North Carolina, US",3
+Cumberland,North Carolina,"Cumberland, North Carolina, US",3
+Davidson,North Carolina,"Davidson, North Carolina, US",3
+Durham,North Carolina,"Durham, North Carolina, US",3
+Edgecombe,North Carolina,"Edgecombe, North Carolina, US",3
+Forsyth,North Carolina,"Forsyth, North Carolina, US",3
+Graham,North Carolina,"Graham, North Carolina, US",3
+Granville,North Carolina,"Granville, North Carolina, US",3
+Guilford,North Carolina,"Guilford, North Carolina, US",3
+Haywood,North Carolina,"Haywood, North Carolina, US",3
+Johnston,North Carolina,"Johnston, North Carolina, US",3
+Lenoir,North Carolina,"Lenoir, North Carolina, US",3
+Lincoln,North Carolina,"Lincoln, North Carolina, US",3
+Macon,North Carolina,"Macon, North Carolina, US",3
+Martin,North Carolina,"Martin, North Carolina, US",3
+Mecklenburg,North Carolina,"Mecklenburg, North Carolina, US",3
+Montgomery,North Carolina,"Montgomery, North Carolina, US",3
+New Hanover,North Carolina,"New Hanover, North Carolina, US",3
+Person,North Carolina,"Person, North Carolina, US",3
+Pitt,North Carolina,"Pitt, North Carolina, US",3
+Rockingham,North Carolina,"Rockingham, North Carolina, US",3
+Rowan,North Carolina,"Rowan, North Carolina, US",2
+Swain,North Carolina,"Swain, North Carolina, US",3
+Union,North Carolina,"Union, North Carolina, US",3
+Wake,North Carolina,"Wake, North Carolina, US",3
+Yancey,North Carolina,"Yancey, North Carolina, US",3
+Billings,North Dakota,"Billings, North Dakota, US",1
+Burke,North Dakota,"Burke, North Dakota, US",1
+Burleigh,North Dakota,"Burleigh, North Dakota, US",2
+Cass,North Dakota,"Cass, North Dakota, US",1
+Dunn,North Dakota,"Dunn, North Dakota, US",1
+McKenzie,North Dakota,"McKenzie, North Dakota, US",2
+Mercer,North Dakota,"Mercer, North Dakota, US",1
+Oliver,North Dakota,"Oliver, North Dakota, US",2
+Williams,North Dakota,"Williams, North Dakota, US",2
+Adams,Ohio,"Adams, Ohio, US",2
+Allen,Ohio,"Allen, Ohio, US",1
+Ashtabula,Ohio,"Ashtabula, Ohio, US",1
+Belmont,Ohio,"Belmont, Ohio, US",1
+Butler,Ohio,"Butler, Ohio, US",3
+Clark,Ohio,"Clark, Ohio, US",3
+Clermont,Ohio,"Clermont, Ohio, US",3
+Clinton,Ohio,"Clinton, Ohio, US",3
+Columbiana,Ohio,"Columbiana, Ohio, US",1
+Cuyahoga,Ohio,"Cuyahoga, Ohio, US",3
+Delaware,Ohio,"Delaware, Ohio, US",3
+Fayette,Ohio,"Fayette, Ohio, US",1
+Franklin,Ohio,"Franklin, Ohio, US",3
+Geauga,Ohio,"Geauga, Ohio, US",1
+Greene,Ohio,"Greene, Ohio, US",3
+Hamilton,Ohio,"Hamilton, Ohio, US",2
+Jefferson,Ohio,"Jefferson, Ohio, US",1
+Knox,Ohio,"Knox, Ohio, US",2
+Lake,Ohio,"Lake, Ohio, US",3
+Lawrence,Ohio,"Lawrence, Ohio, US",2
+Licking,Ohio,"Licking, Ohio, US",3
+Lorain,Ohio,"Lorain, Ohio, US",3
+Lucas,Ohio,"Lucas, Ohio, US",1
+Madison,Ohio,"Madison, Ohio, US",1
+Mahoning,Ohio,"Mahoning, Ohio, US",1
+Medina,Ohio,"Medina, Ohio, US",3
+Miami,Ohio,"Miami, Ohio, US",1
+Montgomery,Ohio,"Montgomery, Ohio, US",3
+Morgan,Ohio,"Morgan, Ohio, US",2
+Noble,Ohio,"Noble, Ohio, US",2
+Portage,Ohio,"Portage, Ohio, US",1
+Preble,Ohio,"Preble, Ohio, US",2
+Scioto,Ohio,"Scioto, Ohio, US",2
+Stark,Ohio,"Stark, Ohio, US",3
+Summit,Ohio,"Summit, Ohio, US",3
+Trumbull,Ohio,"Trumbull, Ohio, US",3
+Warren,Ohio,"Warren, Ohio, US",3
+Washington,Ohio,"Washington, Ohio, US",1
+Wood,Ohio,"Wood, Ohio, US",1
+Adair,Oklahoma,"Adair, Oklahoma, US",1
+Canadian,Oklahoma,"Canadian, Oklahoma, US",2
+Cleveland,Oklahoma,"Cleveland, Oklahoma, US",2
+Comanche,Oklahoma,"Comanche, Oklahoma, US",1
+Creek,Oklahoma,"Creek, Oklahoma, US",2
+Dewey,Oklahoma,"Dewey, Oklahoma, US",1
+Kay,Oklahoma,"Kay, Oklahoma, US",2
+Mayes,Oklahoma,"Mayes, Oklahoma, US",2
+Muskogee,Oklahoma,"Muskogee, Oklahoma, US",3
+Oklahoma,Oklahoma,"Oklahoma, Oklahoma, US",2
+Ottawa,Oklahoma,"Ottawa, Oklahoma, US",2
+Pittsburg,Oklahoma,"Pittsburg, Oklahoma, US",2
+Sequoyah,Oklahoma,"Sequoyah, Oklahoma, US",2
+Tulsa,Oklahoma,"Tulsa, Oklahoma, US",3
+Baker,Oregon,"Baker, Oregon, US",2
+Benton,Oregon,"Benton, Oregon, US",3
+Clackamas,Oregon,"Clackamas, Oregon, US",2
+Columbia,Oregon,"Columbia, Oregon, US",2
+Crook,Oregon,"Crook, Oregon, US",1
+Deschutes,Oregon,"Deschutes, Oregon, US",3
+Douglas,Oregon,"Douglas, Oregon, US",2
+Grant,Oregon,"Grant, Oregon, US",1
+Harney,Oregon,"Harney, Oregon, US",1
+Jackson,Oregon,"Jackson, Oregon, US",2
+Josephine,Oregon,"Josephine, Oregon, US",2
+Klamath,Oregon,"Klamath, Oregon, US",2
+Lake,Oregon,"Lake, Oregon, US",2
+Lane,Oregon,"Lane, Oregon, US",2
+Linn,Oregon,"Linn, Oregon, US",1
+Marion,Oregon,"Marion, Oregon, US",3
+Multnomah,Oregon,"Multnomah, Oregon, US",2
+Umatilla,Oregon,"Umatilla, Oregon, US",3
+Union,Oregon,"Union, Oregon, US",2
+Wallowa,Oregon,"Wallowa, Oregon, US",2
+Wasco,Oregon,"Wasco, Oregon, US",3
+Washington,Oregon,"Washington, Oregon, US",2
+Adams,Pennsylvania,"Adams, Pennsylvania, US",3
+Allegheny,Pennsylvania,"Allegheny, Pennsylvania, US",2
+Armstrong,Pennsylvania,"Armstrong, Pennsylvania, US",1
+Beaver,Pennsylvania,"Beaver, Pennsylvania, US",1
+Berks,Pennsylvania,"Berks, Pennsylvania, US",1
+Blair,Pennsylvania,"Blair, Pennsylvania, US",3
+Bradford,Pennsylvania,"Bradford, Pennsylvania, US",1
+Bucks,Pennsylvania,"Bucks, Pennsylvania, US",1
+Cambria,Pennsylvania,"Cambria, Pennsylvania, US",3
+Centre,Pennsylvania,"Centre, Pennsylvania, US",2
+Chester,Pennsylvania,"Chester, Pennsylvania, US",1
+Clearfield,Pennsylvania,"Clearfield, Pennsylvania, US",2
+Cumberland,Pennsylvania,"Cumberland, Pennsylvania, US",1
+Dauphin,Pennsylvania,"Dauphin, Pennsylvania, US",3
+Delaware,Pennsylvania,"Delaware, Pennsylvania, US",1
+Elk,Pennsylvania,"Elk, Pennsylvania, US",2
+Erie,Pennsylvania,"Erie, Pennsylvania, US",3
+Franklin,Pennsylvania,"Franklin, Pennsylvania, US",1
+Greene,Pennsylvania,"Greene, Pennsylvania, US",2
+Indiana,Pennsylvania,"Indiana, Pennsylvania, US",1
+Lackawanna,Pennsylvania,"Lackawanna, Pennsylvania, US",1
+Lancaster,Pennsylvania,"Lancaster, Pennsylvania, US",3
+Lawrence,Pennsylvania,"Lawrence, Pennsylvania, US",3
+Lebanon,Pennsylvania,"Lebanon, Pennsylvania, US",3
+Lehigh,Pennsylvania,"Lehigh, Pennsylvania, US",1
+Luzerne,Pennsylvania,"Luzerne, Pennsylvania, US",1
+Lycoming,Pennsylvania,"Lycoming, Pennsylvania, US",1
+Mercer,Pennsylvania,"Mercer, Pennsylvania, US",3
+Monroe,Pennsylvania,"Monroe, Pennsylvania, US",1
+Montgomery,Pennsylvania,"Montgomery, Pennsylvania, US",1
+Northampton,Pennsylvania,"Northampton, Pennsylvania, US",1
+Philadelphia,Pennsylvania,"Philadelphia, Pennsylvania, US",1
+Somerset,Pennsylvania,"Somerset, Pennsylvania, US",2
+Tioga,Pennsylvania,"Tioga, Pennsylvania, US",3
+Warren,Pennsylvania,"Warren, Pennsylvania, US",1
+Washington,Pennsylvania,"Washington, Pennsylvania, US",2
+Westmoreland,Pennsylvania,"Westmoreland, Pennsylvania, US",2
+York,Pennsylvania,"York, Pennsylvania, US",3
+Kent,Rhode Island,"Kent, Rhode Island, US",1
+Providence,Rhode Island,"Providence, Rhode Island, US",1
+Washington,Rhode Island,"Washington, Rhode Island, US",1
+Aiken,South Carolina,"Aiken, South Carolina, US",3
+Anderson,South Carolina,"Anderson, South Carolina, US",2
+Berkeley,South Carolina,"Berkeley, South Carolina, US",2
+Charleston,South Carolina,"Charleston, South Carolina, US",2
+Chesterfield,South Carolina,"Chesterfield, South Carolina, US",3
+Darlington,South Carolina,"Darlington, South Carolina, US",3
+Edgefield,South Carolina,"Edgefield, South Carolina, US",2
+Greenville,South Carolina,"Greenville, South Carolina, US",3
+Lexington,South Carolina,"Lexington, South Carolina, US",2
+Oconee,South Carolina,"Oconee, South Carolina, US",2
+Pickens,South Carolina,"Pickens, South Carolina, US",3
+Richland,South Carolina,"Richland, South Carolina, US",2
+Spartanburg,South Carolina,"Spartanburg, South Carolina, US",3
+York,South Carolina,"York, South Carolina, US",3
+Brookings,South Dakota,"Brookings, South Dakota, US",3
+Codington,South Dakota,"Codington, South Dakota, US",3
+Custer,South Dakota,"Custer, South Dakota, US",1
+Jackson,South Dakota,"Jackson, South Dakota, US",1
+Meade,South Dakota,"Meade, South Dakota, US",3
+Minnehaha,South Dakota,"Minnehaha, South Dakota, US",1
+Pennington,South Dakota,"Pennington, South Dakota, US",3
+Union,South Dakota,"Union, South Dakota, US",1
+Anderson,Tennessee,"Anderson, Tennessee, US",2
+Blount,Tennessee,"Blount, Tennessee, US",2
+Claiborne,Tennessee,"Claiborne, Tennessee, US",3
+Davidson,Tennessee,"Davidson, Tennessee, US",3
+Hamilton,Tennessee,"Hamilton, Tennessee, US",3
+Jefferson,Tennessee,"Jefferson, Tennessee, US",2
+Knox,Tennessee,"Knox, Tennessee, US",3
+Loudon,Tennessee,"Loudon, Tennessee, US",3
+Montgomery,Tennessee,"Montgomery, Tennessee, US",3
+Sevier,Tennessee,"Sevier, Tennessee, US",2
+Shelby,Tennessee,"Shelby, Tennessee, US",3
+Sullivan,Tennessee,"Sullivan, Tennessee, US",2
+Sumner,Tennessee,"Sumner, Tennessee, US",2
+Williamson,Tennessee,"Williamson, Tennessee, US",2
+Wilson,Tennessee,"Wilson, Tennessee, US",3
+Bell,Texas,"Bell, Texas, US",3
+Bexar,Texas,"Bexar, Texas, US",2
+Brazoria,Texas,"Brazoria, Texas, US",2
+Brewster,Texas,"Brewster, Texas, US",2
+Cameron,Texas,"Cameron, Texas, US",3
+Collin,Texas,"Collin, Texas, US",3
+Dallas,Texas,"Dallas, Texas, US",3
+Denton,Texas,"Denton, Texas, US",3
+Ector,Texas,"Ector, Texas, US",3
+Ellis,Texas,"Ellis, Texas, US",3
+El Paso,Texas,"El Paso, Texas, US",3
+Galveston,Texas,"Galveston, Texas, US",2
+Gregg,Texas,"Gregg, Texas, US",3
+Harris,Texas,"Harris, Texas, US",3
+Harrison,Texas,"Harrison, Texas, US",1
+Hidalgo,Texas,"Hidalgo, Texas, US",2
+Hood,Texas,"Hood, Texas, US",2
+Hunt,Texas,"Hunt, Texas, US",3
+Jefferson,Texas,"Jefferson, Texas, US",2
+Johnson,Texas,"Johnson, Texas, US",3
+Kaufman,Texas,"Kaufman, Texas, US",3
+McLennan,Texas,"McLennan, Texas, US",2
+Maverick,Texas,"Maverick, Texas, US",3
+Montgomery,Texas,"Montgomery, Texas, US",2
+Navarro,Texas,"Navarro, Texas, US",3
+Nueces,Texas,"Nueces, Texas, US",2
+Orange,Texas,"Orange, Texas, US",2
+Parker,Texas,"Parker, Texas, US",3
+Polk,Texas,"Polk, Texas, US",2
+Potter,Texas,"Potter, Texas, US",1
+Randall,Texas,"Randall, Texas, US",1
+Rockwall,Texas,"Rockwall, Texas, US",2
+Smith,Texas,"Smith, Texas, US",2
+Tarrant,Texas,"Tarrant, Texas, US",3
+Travis,Texas,"Travis, Texas, US",3
+Victoria,Texas,"Victoria, Texas, US",2
+Cache,Utah,"Cache, Utah, US",1
+Carbon,Utah,"Carbon, Utah, US",1
+Davis,Utah,"Davis, Utah, US",3
+Duchesne,Utah,"Duchesne, Utah, US",1
+Salt Lake,Utah,"Salt Lake, Utah, US",3
+San Juan,Utah,"San Juan, Utah, US",1
+Tooele,Utah,"Tooele, Utah, US",3
+Uintah,Utah,"Uintah, Utah, US",1
+Utah,Utah,"Utah, Utah, US",2
+Bennington,Vermont,"Bennington, Vermont, US",1
+Chittenden,Vermont,"Chittenden, Vermont, US",2
+Rutland,Vermont,"Rutland, Vermont, US",2
+Albemarle,Virginia,"Albemarle, Virginia, US",3
+Arlington,Virginia,"Arlington, Virginia, US",1
+Caroline,Virginia,"Caroline, Virginia, US",1
+Chesterfield,Virginia,"Chesterfield, Virginia, US",3
+Fairfax,Virginia,"Fairfax, Virginia, US",1
+Fauquier,Virginia,"Fauquier, Virginia, US",1
+Frederick,Virginia,"Frederick, Virginia, US",1
+Giles,Virginia,"Giles, Virginia, US",2
+Hanover,Virginia,"Hanover, Virginia, US",1
+Henrico,Virginia,"Henrico, Virginia, US",3
+Loudoun,Virginia,"Loudoun, Virginia, US",3
+Madison,Virginia,"Madison, Virginia, US",1
+Prince Edward,Virginia,"Prince Edward, Virginia, US",1
+Prince William,Virginia,"Prince William, Virginia, US",1
+Roanoke,Virginia,"Roanoke, Virginia, US",2
+Rockbridge,Virginia,"Rockbridge, Virginia, US",3
+Rockingham,Virginia,"Rockingham, Virginia, US",1
+Stafford,Virginia,"Stafford, Virginia, US",3
+Wythe,Virginia,"Wythe, Virginia, US",3
+Richmond City,Virginia,"Richmond City, Virginia, US",3
+Adams,Washington,"Adams, Washington, US",2
+Asotin,Washington,"Asotin, Washington, US",1
+Benton,Washington,"Benton, Washington, US",2
+Chelan,Washington,"Chelan, Washington, US",3
+Clallam,Washington,"Clallam, Washington, US",3
+Clark,Washington,"Clark, Washington, US",3
+Columbia,Washington,"Columbia, Washington, US",2
+Cowlitz,Washington,"Cowlitz, Washington, US",2
+Franklin,Washington,"Franklin, Washington, US",2
+Grant,Washington,"Grant, Washington, US",2
+Grays Harbor,Washington,"Grays Harbor, Washington, US",2
+Jefferson,Washington,"Jefferson, Washington, US",1
+King,Washington,"King, Washington, US",1
+Kitsap,Washington,"Kitsap, Washington, US",2
+Kittitas,Washington,"Kittitas, Washington, US",1
+Lewis,Washington,"Lewis, Washington, US",2
+Mason,Washington,"Mason, Washington, US",2
+Okanogan,Washington,"Okanogan, Washington, US",3
+Pierce,Washington,"Pierce, Washington, US",1
+Skagit,Washington,"Skagit, Washington, US",1
+Snohomish,Washington,"Snohomish, Washington, US",1
+Spokane,Washington,"Spokane, Washington, US",3
+Stevens,Washington,"Stevens, Washington, US",2
+Thurston,Washington,"Thurston, Washington, US",2
+Walla Walla,Washington,"Walla Walla, Washington, US",2
+Whatcom,Washington,"Whatcom, Washington, US",2
+Whitman,Washington,"Whitman, Washington, US",2
+Yakima,Washington,"Yakima, Washington, US",3
+Berkeley,West Virginia,"Berkeley, West Virginia, US",3
+Brooke,West Virginia,"Brooke, West Virginia, US",2
+Cabell,West Virginia,"Cabell, West Virginia, US",2
+Gilmer,West Virginia,"Gilmer, West Virginia, US",2
+Greenbrier,West Virginia,"Greenbrier, West Virginia, US",2
+Hancock,West Virginia,"Hancock, West Virginia, US",1
+Kanawha,West Virginia,"Kanawha, West Virginia, US",3
+Marshall,West Virginia,"Marshall, West Virginia, US",3
+Monongalia,West Virginia,"Monongalia, West Virginia, US",2
+Ohio,West Virginia,"Ohio, West Virginia, US",2
+Tucker,West Virginia,"Tucker, West Virginia, US",3
+Wood,West Virginia,"Wood, West Virginia, US",2
+Ashland,Wisconsin,"Ashland, Wisconsin, US",1
+Brown,Wisconsin,"Brown, Wisconsin, US",3
+Columbia,Wisconsin,"Columbia, Wisconsin, US",2
+Dane,Wisconsin,"Dane, Wisconsin, US",3
+Dodge,Wisconsin,"Dodge, Wisconsin, US",1
+Door,Wisconsin,"Door, Wisconsin, US",1
+Eau Claire,Wisconsin,"Eau Claire, Wisconsin, US",3
+Fond du Lac,Wisconsin,"Fond du Lac, Wisconsin, US",1
+Forest,Wisconsin,"Forest, Wisconsin, US",1
+Grant,Wisconsin,"Grant, Wisconsin, US",2
+Jefferson,Wisconsin,"Jefferson, Wisconsin, US",3
+Kenosha,Wisconsin,"Kenosha, Wisconsin, US",1
+Kewaunee,Wisconsin,"Kewaunee, Wisconsin, US",2
+La Crosse,Wisconsin,"La Crosse, Wisconsin, US",2
+Manitowoc,Wisconsin,"Manitowoc, Wisconsin, US",3
+Marathon,Wisconsin,"Marathon, Wisconsin, US",3
+Milwaukee,Wisconsin,"Milwaukee, Wisconsin, US",3
+Oneida,Wisconsin,"Oneida, Wisconsin, US",3
+Outagamie,Wisconsin,"Outagamie, Wisconsin, US",3
+Ozaukee,Wisconsin,"Ozaukee, Wisconsin, US",3
+Rock,Wisconsin,"Rock, Wisconsin, US",1
+Sauk,Wisconsin,"Sauk, Wisconsin, US",2
+Sheboygan,Wisconsin,"Sheboygan, Wisconsin, US",3
+Taylor,Wisconsin,"Taylor, Wisconsin, US",1
+Vilas,Wisconsin,"Vilas, Wisconsin, US",3
+Walworth,Wisconsin,"Walworth, Wisconsin, US",3
+Waukesha,Wisconsin,"Waukesha, Wisconsin, US",3
+Albany,Wyoming,"Albany, Wyoming, US",1
+Big Horn,Wyoming,"Big Horn, Wyoming, US",3
+Campbell,Wyoming,"Campbell, Wyoming, US",2
+Carbon,Wyoming,"Carbon, Wyoming, US",3
+Converse,Wyoming,"Converse, Wyoming, US",1
+Fremont,Wyoming,"Fremont, Wyoming, US",1
+Laramie,Wyoming,"Laramie, Wyoming, US",2
+Lincoln,Wyoming,"Lincoln, Wyoming, US",2
+Natrona,Wyoming,"Natrona, Wyoming, US",2
+Sheridan,Wyoming,"Sheridan, Wyoming, US",2
+Sublette,Wyoming,"Sublette, Wyoming, US",2
+Sweetwater,Wyoming,"Sweetwater, Wyoming, US",3
+Teton,Wyoming,"Teton, Wyoming, US",2
+Uinta,Wyoming,"Uinta, Wyoming, US",2
+Weston,Wyoming,"Weston, Wyoming, US",2
