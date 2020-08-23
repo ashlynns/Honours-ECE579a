@@ -3,11 +3,12 @@ import pandas as pd
 # Importing list of counties in analysis
 CS_List = pd.read_csv('/Users/Ashlynn/Desktop/Summer 2020/Honours-ECE579a/Code_Fresh/Datasets/AQI/Combined_AQI.csv')
 CS_List = list(CS_List['County']+CS_List['State'])
+print(len(CS_List))
 
 ######## FEATURES EXTRACTED FROM POPULATION DATA FILE ############
 # Importing population data file 
 RS_Headers = ['STATE','STNAME', 'CTYNAME', 'YEAR', 'AGEGRP', 'TOT_POP', 'BA_MALE', 'BA_FEMALE', 'H_MALE', 'H_FEMALE']
-population_RSo = pd.read_csv('/Users/Ashlynn/Desktop/Summer 2020/Honours-ECE579a/Code_Fresh/Datasets/Confounding/cc-est2019-alldata.csv', encoding = 'cp1252', usecols = RS_Headers)
+population_RSo = pd.read_csv('/Users/Ashlynn/Desktop/Summer 2020/Honours-ECE579a/Code_Fresh/Datasets/Confounding/cc-est2019-alldata copy.csv', encoding = 'cp1252', usecols = RS_Headers)
 ctyname = []
 # Filtering city names to match existing list 
 t = (list(population_RSo['CTYNAME']))
@@ -21,6 +22,7 @@ for i in range(len(t)):
 		ctyname.append(t[i].rsplit(' ', 1)[0])
 population_RSo['CTYNAME']=ctyname
 CS = population_RSo['CTYNAME']+population_RSo['STNAME']
+
 # Keeping only the counties that are represented in analysis
 population_RSo.insert(3, 'CS', CS)
 population_RSo_CC = population_RSo[population_RSo['CS'].isin(CS_List)]
@@ -156,6 +158,6 @@ Confounding.insert(12, 'PCT_POVERTY', PCT_POV)
 
 
 Confounding = Confounding.drop('STATE', axis=1)
-Confounding.to_csv('/Users/Ashlynn/Desktop/Summer 2020/Honours-ECE579a/Code_Fresh/Datasets/Confounding/Confounding_Dataset.csv', index=False)
+#Confounding.to_csv('/Users/Ashlynn/Desktop/Summer 2020/Honours-ECE579a/Code_Fresh/Datasets/Confounding/Confounding_Dataset.csv', index=False)
 
 
