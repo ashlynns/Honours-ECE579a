@@ -9,7 +9,7 @@ Features = AQI_Features
 Features['Norm_Cases'] = Cases_and_Deaths.Cases
 Features['Norm_Deaths'] = Cases_and_Deaths.Deaths
 Features['Case_Det_Class'] = Covid_Cases_Det_Classes.Case_Curve_Class 
-Features['Case_Spectral_Class'] = Covid_Cases_Spectral.SpectralClusteringK3
+Features['Case_Spectral_Class'] = Covid_Cases_Spectral.SpectralClass
 
 
 Features.to_csv('/Users/Ashlynn/Desktop/Summer 2020/Honours-ECE579a/Code_Fresh/Datasets/Features.csv', index=False)
