@@ -1,833 +1,833 @@
 CS,SpectralClass
-BaldwinAlabama,5
+BaldwinAlabama,1
 ColbertAlabama,0
 DeKalbAlabama,0
-EtowahAlabama,4
-HoustonAlabama,6
-JeffersonAlabama,4
-MadisonAlabama,6
-MobileAlabama,0
-MontgomeryAlabama,4
-MorganAlabama,4
-RussellAlabama,4
-ShelbyAlabama,6
-SumterAlabama,0
-TuscaloosaAlabama,4
-ApacheArizona,0
-CochiseArizona,4
-CoconinoArizona,0
-GilaArizona,4
-La PazArizona,4
-MaricopaArizona,4
-MohaveArizona,4
-NavajoArizona,0
-PimaArizona,4
-PinalArizona,4
-Santa CruzArizona,4
-YavapaiArizona,6
-YumaArizona,4
-ClarkArkansas,1
-CrittendenArkansas,4
-NewtonArkansas,1
-PolkArkansas,4
-PulaskiArkansas,4
+EtowahAlabama,6
+HoustonAlabama,3
+JeffersonAlabama,6
+MadisonAlabama,3
+MobileAlabama,4
+MontgomeryAlabama,6
+MorganAlabama,6
+RussellAlabama,6
+ShelbyAlabama,3
+SumterAlabama,4
+TuscaloosaAlabama,6
+ApacheArizona,4
+CochiseArizona,6
+CoconinoArizona,4
+GilaArizona,6
+La PazArizona,6
+MaricopaArizona,6
+MohaveArizona,6
+NavajoArizona,4
+PimaArizona,6
+PinalArizona,6
+Santa CruzArizona,6
+YavapaiArizona,3
+YumaArizona,6
+ClarkArkansas,2
+CrittendenArkansas,6
+NewtonArkansas,2
+PolkArkansas,6
+PulaskiArkansas,6
 UnionArkansas,0
-WashingtonArkansas,4
-AlamedaCalifornia,6
-AmadorCalifornia,1
-ButteCalifornia,5
-CalaverasCalifornia,1
-ColusaCalifornia,5
-Contra CostaCalifornia,5
-El DoradoCalifornia,5
-FresnoCalifornia,4
-GlennCalifornia,6
-HumboldtCalifornia,1
-ImperialCalifornia,4
-InyoCalifornia,1
-KernCalifornia,4
-KingsCalifornia,4
-LakeCalifornia,5
-Los AngelesCalifornia,4
-MaderaCalifornia,6
-MarinCalifornia,4
-MariposaCalifornia,1
-MendocinoCalifornia,5
-MercedCalifornia,6
-MonoCalifornia,6
-MontereyCalifornia,6
-NapaCalifornia,5
-NevadaCalifornia,5
-OrangeCalifornia,4
-PlacerCalifornia,5
+WashingtonArkansas,6
+AlamedaCalifornia,3
+AmadorCalifornia,2
+ButteCalifornia,1
+CalaverasCalifornia,2
+ColusaCalifornia,1
+Contra CostaCalifornia,1
+El DoradoCalifornia,1
+FresnoCalifornia,6
+GlennCalifornia,3
+HumboldtCalifornia,2
+ImperialCalifornia,6
+InyoCalifornia,2
+KernCalifornia,6
+KingsCalifornia,6
+LakeCalifornia,1
+Los AngelesCalifornia,6
+MaderaCalifornia,3
+MarinCalifornia,6
+MariposaCalifornia,2
+MendocinoCalifornia,1
+MercedCalifornia,3
+MonoCalifornia,3
+MontereyCalifornia,3
+NapaCalifornia,1
+NevadaCalifornia,1
+OrangeCalifornia,6
+PlacerCalifornia,1
 RiversideCalifornia,0
-SacramentoCalifornia,5
-San BenitoCalifornia,6
-San BernardinoCalifornia,4
-San DiegoCalifornia,4
-San FranciscoCalifornia,6
-San JoaquinCalifornia,4
-San Luis ObispoCalifornia,5
-San MateoCalifornia,6
+SacramentoCalifornia,1
+San BenitoCalifornia,3
+San BernardinoCalifornia,6
+San DiegoCalifornia,6
+San FranciscoCalifornia,3
+San JoaquinCalifornia,6
+San Luis ObispoCalifornia,1
+San MateoCalifornia,3
 Santa BarbaraCalifornia,0
-Santa ClaraCalifornia,1
-Santa CruzCalifornia,1
-ShastaCalifornia,1
-SiskiyouCalifornia,5
-SolanoCalifornia,5
-SonomaCalifornia,5
-StanislausCalifornia,6
-SutterCalifornia,5
-TehamaCalifornia,5
-TulareCalifornia,4
-TuolumneCalifornia,5
-VenturaCalifornia,6
-YoloCalifornia,5
-AdamsColorado,0
-ArapahoeColorado,3
-ArchuletaColorado,1
-BoulderColorado,6
-Clear CreekColorado,6
-DenverColorado,0
-DouglasColorado,6
-El PasoColorado,1
-GarfieldColorado,6
+Santa ClaraCalifornia,2
+Santa CruzCalifornia,2
+ShastaCalifornia,2
+SiskiyouCalifornia,1
+SolanoCalifornia,1
+SonomaCalifornia,1
+StanislausCalifornia,3
+SutterCalifornia,1
+TehamaCalifornia,1
+TulareCalifornia,6
+TuolumneCalifornia,1
+VenturaCalifornia,3
+YoloCalifornia,1
+AdamsColorado,4
+ArapahoeColorado,5
+ArchuletaColorado,2
+BoulderColorado,3
+Clear CreekColorado,3
+DenverColorado,4
+DouglasColorado,3
+El PasoColorado,2
+GarfieldColorado,3
 GunnisonColorado,0
 JeffersonColorado,0
-La PlataColorado,1
-LarimerColorado,6
-MesaColorado,1
-MontezumaColorado,5
-ProwersColorado,6
-Rio BlancoColorado,5
-RouttColorado,6
-WeldColorado,3
-FairfieldConnecticut,3
-HartfordConnecticut,3
-LitchfieldConnecticut,3
-New HavenConnecticut,3
+La PlataColorado,2
+LarimerColorado,3
+MesaColorado,2
+MontezumaColorado,1
+ProwersColorado,3
+Rio BlancoColorado,1
+RouttColorado,3
+WeldColorado,5
+FairfieldConnecticut,5
+HartfordConnecticut,5
+LitchfieldConnecticut,5
+New HavenConnecticut,5
 New LondonConnecticut,0
 WindhamConnecticut,0
-KentDelaware,3
-New CastleDelaware,0
-SussexDelaware,3
-AlachuaFlorida,6
-BakerFlorida,5
-BayFlorida,5
-BrevardFlorida,6
+KentDelaware,5
+New CastleDelaware,4
+SussexDelaware,5
+AlachuaFlorida,3
+BakerFlorida,1
+BayFlorida,1
+BrevardFlorida,3
 BrowardFlorida,0
-CitrusFlorida,5
-CollierFlorida,4
-ColumbiaFlorida,6
-DuvalFlorida,4
+CitrusFlorida,1
+CollierFlorida,6
+ColumbiaFlorida,3
+DuvalFlorida,6
 EscambiaFlorida,0
-FlaglerFlorida,1
-HamiltonFlorida,0
-HighlandsFlorida,6
-HillsboroughFlorida,4
+FlaglerFlorida,2
+HamiltonFlorida,4
+HighlandsFlorida,3
+HillsboroughFlorida,6
 HolmesFlorida,0
-Indian RiverFlorida,4
-LakeFlorida,6
-LeeFlorida,4
-LeonFlorida,6
-LibertyFlorida,4
-ManateeFlorida,4
-MarionFlorida,5
-MartinFlorida,4
+Indian RiverFlorida,6
+LakeFlorida,3
+LeeFlorida,6
+LeonFlorida,3
+LibertyFlorida,6
+ManateeFlorida,6
+MarionFlorida,1
+MartinFlorida,6
 Miami-DadeFlorida,0
-NassauFlorida,5
-OkaloosaFlorida,6
-OrangeFlorida,4
-OsceolaFlorida,4
-Palm BeachFlorida,4
-PascoFlorida,6
-PinellasFlorida,4
-PolkFlorida,4
-PutnamFlorida,6
-Santa RosaFlorida,4
-SarasotaFlorida,5
-SeminoleFlorida,6
-St. LucieFlorida,4
-VolusiaFlorida,6
-WakullaFlorida,1
+NassauFlorida,1
+OkaloosaFlorida,3
+OrangeFlorida,6
+OsceolaFlorida,6
+Palm BeachFlorida,6
+PascoFlorida,3
+PinellasFlorida,6
+PolkFlorida,6
+PutnamFlorida,3
+Santa RosaFlorida,6
+SarasotaFlorida,1
+SeminoleFlorida,3
+St. LucieFlorida,6
+VolusiaFlorida,3
+WakullaFlorida,2
 BibbGeorgia,0
-ChathamGeorgia,6
-ChattoogaGeorgia,5
-ClarkeGeorgia,6
+ChathamGeorgia,3
+ChattoogaGeorgia,1
+ClarkeGeorgia,3
 CobbGeorgia,0
-ColumbiaGeorgia,5
+ColumbiaGeorgia,1
 DawsonGeorgia,0
-DeKalbGeorgia,0
-DoughertyGeorgia,4
+DeKalbGeorgia,4
+DoughertyGeorgia,6
 DouglasGeorgia,0
 FloydGeorgia,0
 FultonGeorgia,0
-GlynnGeorgia,4
-GwinnettGeorgia,4
+GlynnGeorgia,6
+GwinnettGeorgia,6
 HenryGeorgia,0
-HoustonGeorgia,1
-LowndesGeorgia,4
-MurrayGeorgia,4
-MuscogeeGeorgia,4
+HoustonGeorgia,2
+LowndesGeorgia,6
+MurrayGeorgia,6
+MuscogeeGeorgia,6
 PikeGeorgia,0
-RichmondGeorgia,4
-RockdaleGeorgia,4
-SumterGeorgia,4
+RichmondGeorgia,6
+RockdaleGeorgia,6
+SumterGeorgia,6
 WalkerGeorgia,0
-HawaiiHawaii,1
-HonoluluHawaii,1
-KauaiHawaii,1
-MauiHawaii,6
-AdaIdaho,6
-BannockIdaho,5
-BenewahIdaho,6
-BonnerIdaho,5
-CanyonIdaho,6
-CaribouIdaho,5
-FranklinIdaho,1
-LemhiIdaho,1
-AdamsIllinois,1
+HawaiiHawaii,2
+HonoluluHawaii,2
+KauaiHawaii,2
+MauiHawaii,3
+AdaIdaho,3
+BannockIdaho,1
+BenewahIdaho,3
+BonnerIdaho,1
+CanyonIdaho,3
+CaribouIdaho,1
+FranklinIdaho,2
+LemhiIdaho,2
+AdamsIllinois,2
 ChampaignIllinois,0
-ClarkIllinois,1
-CookIllinois,0
-DuPageIllinois,0
-EffinghamIllinois,1
-HamiltonIllinois,1
-JerseyIllinois,1
-Jo DaviessIllinois,1
-KaneIllinois,0
-LakeIllinois,0
-MaconIllinois,0
-MacoupinIllinois,1
-MadisonIllinois,6
-McHenryIllinois,6
-McLeanIllinois,1
-PeoriaIllinois,6
-RandolphIllinois,4
-Rock IslandIllinois,4
-SangamonIllinois,6
-WabashIllinois,6
-WillIllinois,0
-WinnebagoIllinois,0
-AllenIndiana,4
-BartholomewIndiana,3
+ClarkIllinois,2
+CookIllinois,4
+DuPageIllinois,4
+EffinghamIllinois,2
+HamiltonIllinois,2
+JerseyIllinois,2
+Jo DaviessIllinois,2
+KaneIllinois,4
+LakeIllinois,4
+MaconIllinois,4
+MacoupinIllinois,2
+MadisonIllinois,3
+McHenryIllinois,3
+McLeanIllinois,2
+PeoriaIllinois,3
+RandolphIllinois,6
+Rock IslandIllinois,6
+SangamonIllinois,3
+WabashIllinois,3
+WillIllinois,4
+WinnebagoIllinois,4
+AllenIndiana,6
+BartholomewIndiana,5
 ClarkIndiana,0
-DaviessIndiana,5
+DaviessIndiana,1
 DelawareIndiana,0
-ElkhartIndiana,4
+ElkhartIndiana,6
 FloydIndiana,0
-GibsonIndiana,5
+GibsonIndiana,1
 GreeneIndiana,0
-HamiltonIndiana,4
-HendricksIndiana,3
-HowardIndiana,0
-KnoxIndiana,5
-LaPorteIndiana,0
+HamiltonIndiana,6
+HendricksIndiana,5
+HowardIndiana,4
+KnoxIndiana,1
+LaPorteIndiana,4
 LakeIndiana,0
 MadisonIndiana,0
-MarionIndiana,0
-MonroeIndiana,1
+MarionIndiana,4
+MonroeIndiana,2
 MorganIndiana,0
-PikeIndiana,1
-PorterIndiana,6
-PoseyIndiana,1
-ShelbyIndiana,0
-St. JosephIndiana,3
-TippecanoeIndiana,6
-VanderburghIndiana,1
-VigoIndiana,1
-WabashIndiana,4
-WarrickIndiana,6
-WhitleyIndiana,5
-Black HawkIowa,3
-BremerIowa,4
-ClintonIowa,1
-HarrisonIowa,6
+PikeIndiana,2
+PorterIndiana,3
+PoseyIndiana,2
+ShelbyIndiana,4
+St. JosephIndiana,5
+TippecanoeIndiana,3
+VanderburghIndiana,2
+VigoIndiana,2
+WabashIndiana,6
+WarrickIndiana,3
+WhitleyIndiana,1
+Black HawkIowa,5
+BremerIowa,6
+ClintonIowa,2
+HarrisonIowa,3
 JohnsonIowa,0
 LinnIowa,0
-MontgomeryIowa,1
-MuscatineIowa,3
-Palo AltoIowa,6
-PolkIowa,0
-ScottIowa,1
-Van BurenIowa,5
-FordKansas,0
-JohnsonKansas,5
-LeavenworthKansas,3
-NeoshoKansas,6
-SedgwickKansas,5
-ShawneeKansas,6
-SumnerKansas,1
-TregoKansas,1
-WyandotteKansas,0
-BellKentucky,1
+MontgomeryIowa,2
+MuscatineIowa,5
+Palo AltoIowa,3
+PolkIowa,4
+ScottIowa,2
+Van BurenIowa,1
+FordKansas,4
+JohnsonKansas,1
+LeavenworthKansas,5
+NeoshoKansas,3
+SedgwickKansas,1
+ShawneeKansas,3
+SumnerKansas,2
+TregoKansas,2
+WyandotteKansas,4
+BellKentucky,2
 BooneKentucky,0
-BoydKentucky,1
-BullittKentucky,6
-CampbellKentucky,1
-CarterKentucky,5
-ChristianKentucky,1
-DaviessKentucky,4
+BoydKentucky,2
+BullittKentucky,3
+CampbellKentucky,2
+CarterKentucky,1
+ChristianKentucky,2
+DaviessKentucky,6
 EdmonsonKentucky,0
-FayetteKentucky,4
-GreenupKentucky,1
-HardinKentucky,1
-HendersonKentucky,6
+FayetteKentucky,6
+GreenupKentucky,2
+HardinKentucky,2
+HendersonKentucky,3
 JeffersonKentucky,0
-JessamineKentucky,5
-LivingstonKentucky,6
-McCrackenKentucky,1
-MorganKentucky,5
-OldhamKentucky,5
-PerryKentucky,5
-PikeKentucky,5
-PulaskiKentucky,1
-SimpsonKentucky,6
-TriggKentucky,5
-WarrenKentucky,0
-WashingtonKentucky,5
-AscensionLouisiana,4
+JessamineKentucky,1
+LivingstonKentucky,3
+McCrackenKentucky,2
+MorganKentucky,1
+OldhamKentucky,1
+PerryKentucky,1
+PikeKentucky,1
+PulaskiKentucky,2
+SimpsonKentucky,3
+TriggKentucky,1
+WarrenKentucky,4
+WashingtonKentucky,1
+AscensionLouisiana,6
 BossierLouisiana,0
-CaddoLouisiana,3
+CaddoLouisiana,5
 CalcasieuLouisiana,0
-East Baton RougeLouisiana,0
-IbervilleLouisiana,3
-JeffersonLouisiana,4
+East Baton RougeLouisiana,4
+IbervilleLouisiana,5
+JeffersonLouisiana,6
 LafayetteLouisiana,0
-LafourcheLouisiana,4
+LafourcheLouisiana,6
 LivingstonLouisiana,0
-OrleansLouisiana,4
-OuachitaLouisiana,4
-Pointe CoupeeLouisiana,3
-St. BernardLouisiana,4
+OrleansLouisiana,6
+OuachitaLouisiana,6
+Pointe CoupeeLouisiana,5
+St. BernardLouisiana,6
 St. JamesLouisiana,0
-St. John the BaptistLouisiana,4
-St. TammanyLouisiana,4
+St. John the BaptistLouisiana,6
+St. TammanyLouisiana,6
 West Baton RougeLouisiana,0
 AndroscogginMaine,0
-AroostookMaine,1
+AroostookMaine,2
 CumberlandMaine,0
-HancockMaine,1
-KennebecMaine,6
-OxfordMaine,1
-PenobscotMaine,1
-WashingtonMaine,1
-YorkMaine,1
-Anne ArundelMaryland,0
-BaltimoreMaryland,0
+HancockMaine,2
+KennebecMaine,3
+OxfordMaine,2
+PenobscotMaine,2
+WashingtonMaine,2
+YorkMaine,2
+Anne ArundelMaryland,4
+BaltimoreMaryland,4
 CalvertMaryland,0
-CarrollMaryland,0
+CarrollMaryland,4
 CecilMaryland,0
-CharlesMaryland,0
-DorchesterMaryland,4
-FrederickMaryland,0
-GarrettMaryland,1
+CharlesMaryland,4
+DorchesterMaryland,6
+FrederickMaryland,4
+GarrettMaryland,2
 HarfordMaryland,0
-HowardMaryland,0
-KentMaryland,3
-MontgomeryMaryland,0
-Prince George'sMaryland,0
+HowardMaryland,4
+KentMaryland,5
+MontgomeryMaryland,4
+Prince George'sMaryland,4
 WashingtonMaryland,0
-BarnstableMassachusetts,4
+BarnstableMassachusetts,6
 BerkshireMassachusetts,0
-BristolMassachusetts,0
-DukesMassachusetts,1
-EssexMassachusetts,3
+BristolMassachusetts,4
+DukesMassachusetts,2
+EssexMassachusetts,5
 FranklinMassachusetts,0
-HampdenMassachusetts,3
+HampdenMassachusetts,5
 HampshireMassachusetts,0
-MiddlesexMassachusetts,3
-NorfolkMassachusetts,3
-PlymouthMassachusetts,3
-SuffolkMassachusetts,0
-WorcesterMassachusetts,0
-AlleganMichigan,6
+MiddlesexMassachusetts,5
+NorfolkMassachusetts,5
+PlymouthMassachusetts,5
+SuffolkMassachusetts,4
+WorcesterMassachusetts,4
+AlleganMichigan,3
 BayMichigan,0
 BerrienMichigan,0
-ClintonMichigan,6
+ClintonMichigan,3
 GeneseeMichigan,0
-InghamMichigan,6
+InghamMichigan,3
 KalamazooMichigan,0
-KentMichigan,0
-LenaweeMichigan,6
-MacombMichigan,4
-ManisteeMichigan,1
-MissaukeeMichigan,6
+KentMichigan,4
+LenaweeMichigan,3
+MacombMichigan,6
+ManisteeMichigan,2
+MissaukeeMichigan,3
 MonroeMichigan,0
-OaklandMichigan,4
-SchoolcraftMichigan,4
-St. ClairMichigan,1
+OaklandMichigan,6
+SchoolcraftMichigan,6
+St. ClairMichigan,2
 TuscolaMichigan,0
 WashtenawMichigan,0
-WayneMichigan,4
-WexfordMichigan,1
+WayneMichigan,6
+WexfordMichigan,2
 AnokaMinnesota,0
-BeckerMinnesota,6
-CarltonMinnesota,6
-CookMinnesota,1
-Crow WingMinnesota,5
+BeckerMinnesota,3
+CarltonMinnesota,3
+CookMinnesota,2
+Crow WingMinnesota,1
 DakotaMinnesota,0
-GoodhueMinnesota,6
-HennepinMinnesota,0
-LakeMinnesota,5
-LyonMinnesota,4
-OlmstedMinnesota,4
-RamseyMinnesota,4
+GoodhueMinnesota,3
+HennepinMinnesota,4
+LakeMinnesota,1
+LyonMinnesota,6
+OlmstedMinnesota,6
+RamseyMinnesota,6
 ScottMinnesota,0
-StearnsMinnesota,0
+StearnsMinnesota,4
 WashingtonMinnesota,0
-WrightMinnesota,4
+WrightMinnesota,6
 BolivarMississippi,0
-DeSotoMississippi,4
-ForrestMississippi,0
-HancockMississippi,6
-HarrisonMississippi,6
-HindsMississippi,4
-JacksonMississippi,6
-LauderdaleMississippi,3
-LeeMississippi,4
-YalobushaMississippi,0
-AndrewMissouri,5
-BooneMissouri,5
-BuchananMissouri,0
-CallawayMissouri,1
-CassMissouri,1
-CedarMissouri,1
-ClayMissouri,5
-ClintonMissouri,1
-GreeneMissouri,1
-IronMissouri,1
-JacksonMissouri,5
-JeffersonMissouri,6
-LincolnMissouri,6
-MonroeMissouri,1
+DeSotoMississippi,6
+ForrestMississippi,4
+HancockMississippi,3
+HarrisonMississippi,3
+HindsMississippi,6
+JacksonMississippi,3
+LauderdaleMississippi,5
+LeeMississippi,6
+YalobushaMississippi,4
+AndrewMissouri,1
+BooneMissouri,1
+BuchananMissouri,4
+CallawayMissouri,2
+CassMissouri,2
+CedarMissouri,2
+ClayMissouri,1
+ClintonMissouri,2
+GreeneMissouri,2
+IronMissouri,2
+JacksonMissouri,1
+JeffersonMissouri,3
+LincolnMissouri,3
+MonroeMissouri,2
 PerryMissouri,0
-St. Louis CityMissouri,3
-CascadeMontana,1
-FergusMontana,1
-FlatheadMontana,1
-GallatinMontana,1
-Lewis and ClarkMontana,1
-LincolnMontana,1
-MissoulaMontana,1
-RavalliMontana,1
-RichlandMontana,5
-RosebudMontana,5
-Silver BowMontana,1
-YellowstoneMontana,1
-CassNebraska,6
-DouglasNebraska,4
-KnoxNebraska,6
+St. Louis CityMissouri,5
+CascadeMontana,2
+FergusMontana,2
+FlatheadMontana,2
+GallatinMontana,2
+Lewis and ClarkMontana,2
+LincolnMontana,2
+MissoulaMontana,2
+RavalliMontana,2
+RichlandMontana,1
+RosebudMontana,1
+Silver BowMontana,2
+YellowstoneMontana,2
+CassNebraska,3
+DouglasNebraska,6
+KnoxNebraska,3
 LancasterNebraska,0
 SarpyNebraska,0
-Carson CityNevada,1
-ChurchillNevada,4
-ClarkNevada,5
-DouglasNevada,6
-ElkoNevada,5
-LyonNevada,1
+Carson CityNevada,2
+ChurchillNevada,6
+ClarkNevada,1
+DouglasNevada,3
+ElkoNevada,1
+LyonNevada,2
 NyeNevada,0
-WashoeNevada,1
-White PineNevada,5
-BelknapNew Hampshire,1
-CheshireNew Hampshire,1
-CoosNew Hampshire,1
-GraftonNew Hampshire,1
-HillsboroughNew Hampshire,0
-MerrimackNew Hampshire,6
+WashoeNevada,2
+White PineNevada,1
+BelknapNew Hampshire,2
+CheshireNew Hampshire,2
+CoosNew Hampshire,2
+GraftonNew Hampshire,2
+HillsboroughNew Hampshire,4
+MerrimackNew Hampshire,3
 RockinghamNew Hampshire,0
-AtlanticNew Jersey,0
-BergenNew Jersey,3
-CamdenNew Jersey,3
-CumberlandNew Jersey,0
-EssexNew Jersey,3
-GloucesterNew Jersey,3
-HudsonNew Jersey,3
-HunterdonNew Jersey,3
-MercerNew Jersey,3
-MiddlesexNew Jersey,3
-MonmouthNew Jersey,3
-MorrisNew Jersey,4
-OceanNew Jersey,3
-PassaicNew Jersey,3
-UnionNew Jersey,3
-WarrenNew Jersey,4
-BernalilloNew Mexico,1
-Dona AnaNew Mexico,4
-EddyNew Mexico,5
-LeaNew Mexico,5
-LunaNew Mexico,6
-Rio ArribaNew Mexico,5
+AtlanticNew Jersey,4
+BergenNew Jersey,5
+CamdenNew Jersey,5
+CumberlandNew Jersey,4
+EssexNew Jersey,5
+GloucesterNew Jersey,5
+HudsonNew Jersey,5
+HunterdonNew Jersey,5
+MercerNew Jersey,5
+MiddlesexNew Jersey,5
+MonmouthNew Jersey,5
+MorrisNew Jersey,6
+OceanNew Jersey,5
+PassaicNew Jersey,5
+UnionNew Jersey,5
+WarrenNew Jersey,6
+BernalilloNew Mexico,2
+Dona AnaNew Mexico,6
+EddyNew Mexico,1
+LeaNew Mexico,1
+LunaNew Mexico,3
+Rio ArribaNew Mexico,1
 San JuanNew Mexico,0
-SandovalNew Mexico,0
-Santa FeNew Mexico,1
-TaosNew Mexico,1
-ValenciaNew Mexico,1
-AlbanyNew York,3
-ChautauquaNew York,1
-DutchessNew York,3
-ErieNew York,3
-EssexNew York,6
-FranklinNew York,1
-HamiltonNew York,1
-HerkimerNew York,1
-JeffersonNew York,1
+SandovalNew Mexico,4
+Santa FeNew Mexico,2
+TaosNew Mexico,2
+ValenciaNew Mexico,2
+AlbanyNew York,5
+ChautauquaNew York,2
+DutchessNew York,5
+ErieNew York,5
+EssexNew York,3
+FranklinNew York,2
+HamiltonNew York,2
+HerkimerNew York,2
+JeffersonNew York,2
 MonroeNew York,0
-NassauNew York,3
+NassauNew York,5
 NiagaraNew York,0
-OneidaNew York,0
+OneidaNew York,4
 OnondagaNew York,0
-OrangeNew York,3
-OswegoNew York,5
-PutnamNew York,4
-RocklandNew York,3
-SaratogaNew York,6
-SteubenNew York,4
-SuffolkNew York,3
-TompkinsNew York,6
-WayneNew York,1
-WestchesterNew York,3
-AveryNorth Carolina,1
-BeaufortNorth Carolina,5
-BuncombeNorth Carolina,6
-CaldwellNorth Carolina,4
-CarteretNorth Carolina,5
+OrangeNew York,5
+OswegoNew York,1
+PutnamNew York,6
+RocklandNew York,5
+SaratogaNew York,3
+SteubenNew York,6
+SuffolkNew York,5
+TompkinsNew York,3
+WayneNew York,2
+WestchesterNew York,5
+AveryNorth Carolina,2
+BeaufortNorth Carolina,1
+BuncombeNorth Carolina,3
+CaldwellNorth Carolina,6
+CarteretNorth Carolina,1
 CaswellNorth Carolina,0
-CatawbaNorth Carolina,4
-CumberlandNorth Carolina,6
+CatawbaNorth Carolina,6
+CumberlandNorth Carolina,3
 DavidsonNorth Carolina,0
-DurhamNorth Carolina,4
+DurhamNorth Carolina,6
 EdgecombeNorth Carolina,0
-ForsythNorth Carolina,4
-GrahamNorth Carolina,5
-GranvilleNorth Carolina,4
+ForsythNorth Carolina,6
+GrahamNorth Carolina,1
+GranvilleNorth Carolina,6
 GuilfordNorth Carolina,0
-HaywoodNorth Carolina,5
+HaywoodNorth Carolina,1
 JohnstonNorth Carolina,0
-LenoirNorth Carolina,4
-LincolnNorth Carolina,6
+LenoirNorth Carolina,6
+LincolnNorth Carolina,3
 MaconNorth Carolina,0
 MartinNorth Carolina,0
-MecklenburgNorth Carolina,4
-MontgomeryNorth Carolina,4
-New HanoverNorth Carolina,6
-PersonNorth Carolina,6
-PittNorth Carolina,6
-RockinghamNorth Carolina,6
-RowanNorth Carolina,4
-SwainNorth Carolina,4
-UnionNorth Carolina,4
-WakeNorth Carolina,4
-YanceyNorth Carolina,5
-BillingsNorth Dakota,1
-BurkeNorth Dakota,6
-BurleighNorth Dakota,5
-CassNorth Dakota,0
-DunnNorth Dakota,4
-McKenzieNorth Dakota,1
-MercerNorth Dakota,1
-OliverNorth Dakota,1
-WilliamsNorth Dakota,1
-AdamsOhio,5
-AllenOhio,6
+MecklenburgNorth Carolina,6
+MontgomeryNorth Carolina,6
+New HanoverNorth Carolina,3
+PersonNorth Carolina,3
+PittNorth Carolina,3
+RockinghamNorth Carolina,3
+RowanNorth Carolina,6
+SwainNorth Carolina,6
+UnionNorth Carolina,6
+WakeNorth Carolina,6
+YanceyNorth Carolina,1
+BillingsNorth Dakota,2
+BurkeNorth Dakota,3
+BurleighNorth Dakota,1
+CassNorth Dakota,4
+DunnNorth Dakota,6
+McKenzieNorth Dakota,2
+MercerNorth Dakota,2
+OliverNorth Dakota,2
+WilliamsNorth Dakota,2
+AdamsOhio,1
+AllenOhio,3
 AshtabulaOhio,0
-BelmontOhio,0
-ButlerOhio,6
+BelmontOhio,4
+ButlerOhio,3
 ClarkOhio,0
-ClermontOhio,5
-ClintonOhio,1
-ColumbianaOhio,0
+ClermontOhio,1
+ClintonOhio,2
+ColumbianaOhio,4
 CuyahogaOhio,0
-DelawareOhio,1
-FayetteOhio,6
-FranklinOhio,0
-GeaugaOhio,6
-GreeneOhio,5
+DelawareOhio,2
+FayetteOhio,3
+FranklinOhio,4
+GeaugaOhio,3
+GreeneOhio,1
 HamiltonOhio,0
-JeffersonOhio,1
-KnoxOhio,1
-LakeOhio,1
-LawrenceOhio,1
-LickingOhio,5
-LorainOhio,6
-LucasOhio,4
+JeffersonOhio,2
+KnoxOhio,2
+LakeOhio,2
+LawrenceOhio,2
+LickingOhio,1
+LorainOhio,3
+LucasOhio,6
 MadisonOhio,0
-MahoningOhio,3
-MedinaOhio,5
+MahoningOhio,5
+MedinaOhio,1
 MiamiOhio,0
-MontgomeryOhio,6
-MorganOhio,1
-NobleOhio,1
-PortageOhio,6
-PrebleOhio,1
-SciotoOhio,1
-StarkOhio,1
-SummitOhio,6
-TrumbullOhio,6
-WarrenOhio,6
-WashingtonOhio,6
-WoodOhio,6
+MontgomeryOhio,3
+MorganOhio,2
+NobleOhio,2
+PortageOhio,3
+PrebleOhio,2
+SciotoOhio,2
+StarkOhio,2
+SummitOhio,3
+TrumbullOhio,3
+WarrenOhio,3
+WashingtonOhio,3
+WoodOhio,3
 AdairOklahoma,0
-CanadianOklahoma,5
-ClevelandOklahoma,1
-ComancheOklahoma,6
-CreekOklahoma,1
-DeweyOklahoma,1
-KayOklahoma,1
-MayesOklahoma,5
-MuskogeeOklahoma,5
-OklahomaOklahoma,6
-OttawaOklahoma,1
-PittsburgOklahoma,6
-SequoyahOklahoma,1
-TulsaOklahoma,4
-BakerOregon,1
-BentonOregon,1
-ClackamasOregon,5
-ColumbiaOregon,1
-CrookOregon,1
-DeschutesOregon,1
-DouglasOregon,1
-GrantOregon,1
-HarneyOregon,1
-JacksonOregon,1
-JosephineOregon,1
-KlamathOregon,5
-LakeOregon,6
-LaneOregon,1
-LinnOregon,1
-MarionOregon,6
-MultnomahOregon,5
-UmatillaOregon,4
+CanadianOklahoma,1
+ClevelandOklahoma,2
+ComancheOklahoma,3
+CreekOklahoma,2
+DeweyOklahoma,2
+KayOklahoma,2
+MayesOklahoma,1
+MuskogeeOklahoma,1
+OklahomaOklahoma,3
+OttawaOklahoma,2
+PittsburgOklahoma,3
+SequoyahOklahoma,2
+TulsaOklahoma,6
+BakerOregon,2
+BentonOregon,2
+ClackamasOregon,1
+ColumbiaOregon,2
+CrookOregon,2
+DeschutesOregon,2
+DouglasOregon,2
+GrantOregon,2
+HarneyOregon,2
+JacksonOregon,2
+JosephineOregon,2
+KlamathOregon,1
+LakeOregon,3
+LaneOregon,2
+LinnOregon,2
+MarionOregon,3
+MultnomahOregon,1
+UmatillaOregon,6
 UnionOregon,0
-WallowaOregon,5
-WascoOregon,6
-WashingtonOregon,5
-AdamsPennsylvania,6
-AlleghenyPennsylvania,6
-ArmstrongPennsylvania,6
+WallowaOregon,1
+WascoOregon,3
+WashingtonOregon,1
+AdamsPennsylvania,3
+AlleghenyPennsylvania,3
+ArmstrongPennsylvania,3
 BeaverPennsylvania,0
-BerksPennsylvania,3
-BlairPennsylvania,1
-BradfordPennsylvania,1
-BucksPennsylvania,3
-CambriaPennsylvania,1
-CentrePennsylvania,1
-ChesterPennsylvania,0
-ClearfieldPennsylvania,1
-CumberlandPennsylvania,6
-DauphinPennsylvania,0
-DelawarePennsylvania,3
-ElkPennsylvania,1
-EriePennsylvania,6
+BerksPennsylvania,5
+BlairPennsylvania,2
+BradfordPennsylvania,2
+BucksPennsylvania,5
+CambriaPennsylvania,2
+CentrePennsylvania,2
+ChesterPennsylvania,4
+ClearfieldPennsylvania,2
+CumberlandPennsylvania,3
+DauphinPennsylvania,4
+DelawarePennsylvania,5
+ElkPennsylvania,2
+EriePennsylvania,3
 FranklinPennsylvania,0
-GreenePennsylvania,1
-IndianaPennsylvania,6
-LackawannaPennsylvania,3
-LancasterPennsylvania,3
-LawrencePennsylvania,1
-LebanonPennsylvania,3
-LehighPennsylvania,4
-LuzernePennsylvania,4
-LycomingPennsylvania,6
-MercerPennsylvania,1
-MonroePennsylvania,4
-MontgomeryPennsylvania,3
-NorthamptonPennsylvania,3
-PhiladelphiaPennsylvania,3
-SomersetPennsylvania,1
-TiogaPennsylvania,1
-WarrenPennsylvania,1
-WashingtonPennsylvania,1
-WestmorelandPennsylvania,6
-YorkPennsylvania,6
-KentRhode Island,3
-ProvidenceRhode Island,0
+GreenePennsylvania,2
+IndianaPennsylvania,3
+LackawannaPennsylvania,5
+LancasterPennsylvania,5
+LawrencePennsylvania,2
+LebanonPennsylvania,5
+LehighPennsylvania,6
+LuzernePennsylvania,6
+LycomingPennsylvania,3
+MercerPennsylvania,2
+MonroePennsylvania,6
+MontgomeryPennsylvania,5
+NorthamptonPennsylvania,5
+PhiladelphiaPennsylvania,5
+SomersetPennsylvania,2
+TiogaPennsylvania,2
+WarrenPennsylvania,2
+WashingtonPennsylvania,2
+WestmorelandPennsylvania,3
+YorkPennsylvania,3
+KentRhode Island,5
+ProvidenceRhode Island,4
 WashingtonRhode Island,0
-AikenSouth Carolina,5
-AndersonSouth Carolina,6
-BerkeleySouth Carolina,4
-CharlestonSouth Carolina,4
-ChesterfieldSouth Carolina,4
-DarlingtonSouth Carolina,0
-EdgefieldSouth Carolina,1
-GreenvilleSouth Carolina,4
+AikenSouth Carolina,1
+AndersonSouth Carolina,3
+BerkeleySouth Carolina,6
+CharlestonSouth Carolina,6
+ChesterfieldSouth Carolina,6
+DarlingtonSouth Carolina,4
+EdgefieldSouth Carolina,2
+GreenvilleSouth Carolina,6
 LexingtonSouth Carolina,0
-OconeeSouth Carolina,6
-PickensSouth Carolina,4
-RichlandSouth Carolina,4
-SpartanburgSouth Carolina,4
-YorkSouth Carolina,6
-BrookingsSouth Dakota,5
-CodingtonSouth Dakota,5
-CusterSouth Dakota,1
-JacksonSouth Dakota,6
-MeadeSouth Dakota,6
-MinnehahaSouth Dakota,3
+OconeeSouth Carolina,3
+PickensSouth Carolina,6
+RichlandSouth Carolina,6
+SpartanburgSouth Carolina,6
+YorkSouth Carolina,3
+BrookingsSouth Dakota,1
+CodingtonSouth Dakota,1
+CusterSouth Dakota,2
+JacksonSouth Dakota,3
+MeadeSouth Dakota,3
+MinnehahaSouth Dakota,5
 PenningtonSouth Dakota,0
-UnionSouth Dakota,0
-AndersonTennessee,5
-BlountTennessee,1
-ClaiborneTennessee,5
-DavidsonTennessee,0
+UnionSouth Dakota,4
+AndersonTennessee,1
+BlountTennessee,2
+ClaiborneTennessee,1
+DavidsonTennessee,4
 HamiltonTennessee,0
-JeffersonTennessee,5
-KnoxTennessee,5
+JeffersonTennessee,1
+KnoxTennessee,1
 LoudonTennessee,0
-MontgomeryTennessee,5
+MontgomeryTennessee,1
 SevierTennessee,0
-ShelbyTennessee,4
-SullivanTennessee,1
+ShelbyTennessee,6
+SullivanTennessee,2
 SumnerTennessee,0
-WilliamsonTennessee,6
-WilsonTennessee,4
-BellTexas,6
-BexarTexas,4
+WilliamsonTennessee,3
+WilsonTennessee,6
+BellTexas,3
+BexarTexas,6
 BrazoriaTexas,0
 BrewsterTexas,0
-CameronTexas,4
-CollinTexas,5
-DallasTexas,4
-DentonTexas,5
-EctorTexas,6
-El PasoTexas,6
-EllisTexas,4
+CameronTexas,6
+CollinTexas,1
+DallasTexas,6
+DentonTexas,1
+EctorTexas,3
+El PasoTexas,3
+EllisTexas,6
 GalvestonTexas,0
-GreggTexas,6
-HarrisTexas,4
+GreggTexas,3
+HarrisTexas,6
 HarrisonTexas,0
-HidalgoTexas,6
-HoodTexas,1
-HuntTexas,4
+HidalgoTexas,3
+HoodTexas,2
+HuntTexas,6
 JeffersonTexas,0
-JohnsonTexas,5
-KaufmanTexas,6
-MaverickTexas,6
+JohnsonTexas,1
+KaufmanTexas,3
+MaverickTexas,3
 McLennanTexas,0
-MontgomeryTexas,6
-NavarroTexas,4
-NuecesTexas,4
-OrangeTexas,5
-ParkerTexas,5
-PolkTexas,5
-PotterTexas,0
+MontgomeryTexas,3
+NavarroTexas,6
+NuecesTexas,6
+OrangeTexas,1
+ParkerTexas,1
+PolkTexas,1
+PotterTexas,4
 RandallTexas,0
-RockwallTexas,5
-SmithTexas,5
+RockwallTexas,1
+SmithTexas,1
 TarrantTexas,0
-TravisTexas,4
-VictoriaTexas,4
-CacheUtah,1
-CarbonUtah,1
-DavisUtah,6
-DuchesneUtah,1
-Salt LakeUtah,4
-San JuanUtah,0
-TooeleUtah,6
-UintahUtah,1
+TravisTexas,6
+VictoriaTexas,6
+CacheUtah,2
+CarbonUtah,2
+DavisUtah,3
+DuchesneUtah,2
+Salt LakeUtah,6
+San JuanUtah,4
+TooeleUtah,3
+UintahUtah,2
 UtahUtah,0
-BenningtonVermont,6
+BenningtonVermont,3
 ChittendenVermont,0
-RutlandVermont,1
-AlbemarleVirginia,6
-ArlingtonVirginia,0
+RutlandVermont,2
+AlbemarleVirginia,3
+ArlingtonVirginia,4
 CarolineVirginia,0
-ChesterfieldVirginia,4
-FairfaxVirginia,0
-FauquierVirginia,4
+ChesterfieldVirginia,6
+FairfaxVirginia,4
+FauquierVirginia,6
 FrederickVirginia,0
-GilesVirginia,1
+GilesVirginia,2
 HanoverVirginia,0
-HenricoVirginia,0
-LoudounVirginia,4
-MadisonVirginia,4
-Prince EdwardVirginia,0
-Prince WilliamVirginia,0
-Richmond CityVirginia,5
-RoanokeVirginia,5
-RockbridgeVirginia,0
-RockinghamVirginia,0
-StaffordVirginia,5
-WytheVirginia,4
+HenricoVirginia,4
+LoudounVirginia,6
+MadisonVirginia,6
+Prince EdwardVirginia,4
+Prince WilliamVirginia,4
+Richmond CityVirginia,1
+RoanokeVirginia,1
+RockbridgeVirginia,4
+RockinghamVirginia,4
+StaffordVirginia,1
+WytheVirginia,6
 AdamsWashington,0
-AsotinWashington,1
-BentonWashington,4
-ChelanWashington,4
-ClallamWashington,1
-ClarkWashington,1
-ColumbiaWashington,6
-CowlitzWashington,5
-FranklinWashington,4
-GrantWashington,4
-Grays HarborWashington,1
-JeffersonWashington,6
+AsotinWashington,2
+BentonWashington,6
+ChelanWashington,6
+ClallamWashington,2
+ClarkWashington,2
+ColumbiaWashington,3
+CowlitzWashington,1
+FranklinWashington,6
+GrantWashington,6
+Grays HarborWashington,2
+JeffersonWashington,3
 KingWashington,0
-KitsapWashington,1
-KittitasWashington,6
-LewisWashington,1
-MasonWashington,1
-OkanoganWashington,1
-PierceWashington,6
-SkagitWashington,4
+KitsapWashington,2
+KittitasWashington,3
+LewisWashington,2
+MasonWashington,2
+OkanoganWashington,2
+PierceWashington,3
+SkagitWashington,6
 SnohomishWashington,0
-SpokaneWashington,5
-StevensWashington,1
-ThurstonWashington,1
-Walla WallaWashington,6
-WhatcomWashington,1
-WhitmanWashington,1
-YakimaWashington,0
-BerkeleyWest Virginia,6
-BrookeWest Virginia,1
-CabellWest Virginia,1
-GilmerWest Virginia,6
-GreenbrierWest Virginia,6
-HancockWest Virginia,1
-KanawhaWest Virginia,6
-MarshallWest Virginia,1
-MonongaliaWest Virginia,1
-OhioWest Virginia,5
-TuckerWest Virginia,1
-WoodWest Virginia,1
-AshlandWisconsin,1
-BrownWisconsin,3
-ColumbiaWisconsin,5
-DaneWisconsin,6
+SpokaneWashington,1
+StevensWashington,2
+ThurstonWashington,2
+Walla WallaWashington,3
+WhatcomWashington,2
+WhitmanWashington,2
+YakimaWashington,4
+BerkeleyWest Virginia,3
+BrookeWest Virginia,2
+CabellWest Virginia,2
+GilmerWest Virginia,3
+GreenbrierWest Virginia,3
+HancockWest Virginia,2
+KanawhaWest Virginia,3
+MarshallWest Virginia,2
+MonongaliaWest Virginia,2
+OhioWest Virginia,1
+TuckerWest Virginia,2
+WoodWest Virginia,2
+AshlandWisconsin,2
+BrownWisconsin,5
+ColumbiaWisconsin,1
+DaneWisconsin,3
 DodgeWisconsin,0
-DoorWisconsin,6
-Eau ClaireWisconsin,5
-Fond du LacWisconsin,6
+DoorWisconsin,3
+Eau ClaireWisconsin,1
+Fond du LacWisconsin,3
 ForestWisconsin,0
-GrantWisconsin,1
-JeffersonWisconsin,6
-KenoshaWisconsin,0
-KewauneeWisconsin,1
-La CrosseWisconsin,6
-ManitowocWisconsin,5
-MarathonWisconsin,5
-MilwaukeeWisconsin,0
-OneidaWisconsin,1
-OutagamieWisconsin,6
-OzaukeeWisconsin,5
+GrantWisconsin,2
+JeffersonWisconsin,3
+KenoshaWisconsin,4
+KewauneeWisconsin,2
+La CrosseWisconsin,3
+ManitowocWisconsin,1
+MarathonWisconsin,1
+MilwaukeeWisconsin,4
+OneidaWisconsin,2
+OutagamieWisconsin,3
+OzaukeeWisconsin,1
 RockWisconsin,0
-SaukWisconsin,6
-SheboyganWisconsin,5
-TaylorWisconsin,5
-VilasWisconsin,1
+SaukWisconsin,3
+SheboyganWisconsin,1
+TaylorWisconsin,1
+VilasWisconsin,2
 WalworthWisconsin,0
-WaukeshaWisconsin,5
-AlbanyWyoming,1
-Big HornWyoming,5
-CampbellWyoming,1
-CarbonWyoming,5
-ConverseWyoming,6
-FremontWyoming,0
-LaramieWyoming,6
-LincolnWyoming,1
-NatronaWyoming,1
-SheridanWyoming,1
-SubletteWyoming,1
-SweetwaterWyoming,5
+WaukeshaWisconsin,1
+AlbanyWyoming,2
+Big HornWyoming,1
+CampbellWyoming,2
+CarbonWyoming,1
+ConverseWyoming,3
+FremontWyoming,4
+LaramieWyoming,3
+LincolnWyoming,2
+NatronaWyoming,2
+SheridanWyoming,2
+SubletteWyoming,2
+SweetwaterWyoming,1
 TetonWyoming,0
 UintaWyoming,0
-WestonWyoming,1
+WestonWyoming,2
